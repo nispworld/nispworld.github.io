@@ -1,16 +1,172 @@
-<!DOCTYPE html
-  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <title>nisp.nw3.dk</title>
-    <style type="text/css">
-      html, body {height: 100%;}
-      #floater {float:left; height:50%; position:relative; margin-bottom:-42px;}
-      #content {clear:both; height:84px; position:relative; font-family:sans-serif; font-size:72px; text-align:center;}
-    </style>
-  </head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>The NISP Nation</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Roboto:100" rel="stylesheet">
+
+  <!-- Normalize CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/styles/main.css?202001011123851">
+</head>
+
   <body>
-    <div id="floater"></div>
-    <div id="content">nisp.nw3.dk</div>
+    <div class="main-content">
+      <div class="nisp-hero">
+  <h2>The NISP Nation</h2>
+</div>
+
+<div class="nisp-content">
+  <p>The NISP tools and the NISP database viewer are continously being updated, but only officially released once a year.</p>
+
+<p>In order for the members of IP CaT to keep up with the development, this page provides online access to draft HTML5 and PDF editions of the NISP and the database viewer.</p>
+
+<p>The sources to both the documents and the database viewer are stored in a Git repository at GitHub.</p>
+
+<ul>
+  <li>Any change to the NISP tool/document/database repository will immediately trigger a continous integration / continous delivery pipeline. This results in a new version of NISP and an updated statistical overview of the standards and profiles.</li>
+  <li>A local copy of the NISP database viewer is synchronized with the GitHub master twice a day - at 05:00 CET and 17:00 CET - and subsequently transformed and made availible on this page.</li>
+</ul>
+
+<hr />
+
+<div class="link-box">
+
+  <div class="quick-links">
+    <h4>Go see draft stuff</h4>
+    <ul class="daily">
+      <li><a href="https://live.nisp.nw3.dk/">See the latest draft of NISP</a></li>
+      <li><a href="http://noswg.nw3.dk/thenispnation/dailyviewer/">Use the database viewer</a></li>
+      <li><a href="http://noswg.nw3.dk/thenispnation/dailyviewer.public/">Use the database viewer (public edition)</a></li>
+    </ul>
+
+  </div>
+
+  <div class="git-links">
+    <h4>Get the sources</h4>
+
+    <p>The NISP sources are freely available at <a href="https://github.com/stavnstrup/nisp-tools">GitHub</a></p>
+    <p>If you want to contribute to the NISP project, you can submit a <a href="https://help.github.com/articles/creating-a-pull-request/">pull request</a> to the repository.</p>
+  </div>
+</div>
+
+<h4>Official releases</h4>
+<ul>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-12.0/">NISP v12 / ADatP-34(L)</a> -
+  Jul. 19, 2019  - also as <a href="https://archive.nisp.nw3.dk/nisp-web-12.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-11.0/">NISP v11 / ADatP-34(K)</a> -
+  Aug. 3, 2018  - also as <a href="https://archive.nisp.nw3.dk/nisp-web-11.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-10.0/">NISP v10 / ADatP-34(J)</a> -
+  Oct. 2, 2017  - also as <a href="https://archive.nisp.nw3.dk/nisp-web-10.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-9.0/">NISP v9 / ADatP-34(I)</a> -
+  Jul. 4, 2016 - also as <a href="https://archive.nisp.nw3.dk/nisp-web-9.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-8.0/">NISP v8 / ADatP-34(H)</a> -
+  Aug. 22, 2014  - also as <a href="https://archive.nisp.nw3.dk/nisp-web-8.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-7.0/">NISP v7 / ADatP-34(G)</a> -
+  Mar. 22, 2013 - also as <a href="https://archive.nisp.nw3.dk/nisp-web-7.0-release.zip">web archive</a></li>
+  <li><a href="https://archive.nisp.nw3.dk/nisp-6.0/">NISP v6 / ADatP-34(F)</a> -
+  Jan. 19, 2012 - also as <a href="https://archive.nisp.nw3.dk/nisp-web-6.0-release.zip">web archive</a></li>
+</ul>
+
+<hr />
+
+<h4 id="statistics">Statistics</h4>
+
+<div class="statistics">
+  <div class="stat-element">
+    <a href="/standard/">
+    <p class="number">1261</p>
+    <p class="label">Standards</p>
+    </a>
+  </div>
+    <div class="stat-element">
+      <a href="/coverdoc/">
+        <p class="number">63</p>
+        <p class="label">Cover Documents</p>
+      </a>
+    </div>
+  <div class="stat-element">
+    <a href="/bsp/">
+    <p class="number">1</p>
+    <p class="label">Basic Standards Profile</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/capabilityprofile/">
+    <p class="number">37</p>
+    <p class="label">Capability Profiles</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/profile/">
+    <p class="number">110</p>
+    <p class="label">Profiles</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/serviceprofile/">
+    <p class="number">344</p>
+    <p class="label">Service Profiles</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/profilespec/">
+    <p class="number">24</p>
+    <p class="label">Profile Specifications</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/organization/">
+    <p class="number">67</p>
+    <p class="label">Organizations</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/responsibleparty/">
+    <p class="number">50</p>
+    <p class="label">Responsible Parties</p>
+    </a>
+  </div>
+  <div class="stat-element">
+    <a href="/node/">
+    <p class="number">1679</p>
+    <p class="label">Taxonomy Nodes</p>
+    </a>
+  </div>
+</div>
+
+<hr />
+
+<h4 id="coherency-checks-of-the-nisp-database">Coherency Checks of the NISP Database</h4>
+
+<ul>
+  <li><a href="https://live.nisp.nw3.dk/debug/overview.html">Overview of all standards and profiles incl. deleted elements</a></li>
+  <li><a href="https://live.nisp.nw3.dk/debug/current.html">Overview of all standards and profiles</a></li>
+  <li><a href="https://live.nisp.nw3.dk/debug/dates.html">Events in the database</a></li>
+  <li><a href="https://live.nisp.nw3.dk/debug/responsibleparties.html">Responsible parties</a></li>
+  <li><a href="https://live.nisp.nw3.dk/debug/upcoming.html">Candidate and fading standards</a></li>
+  <li><a href="https://live.nisp.nw3.dk/debug/family.html">Parent/child relationship</a></li>
+</ul>
+
+<!--
+* [Overview of all standards and profiles](/debug/overview.html)
+* [Events in the database](/debug/dates.html)
+-->
+
+<hr />
+
+<div class="footer">
+  <p>Last updated on Sat, 11 Jan 2020 12:38:51 +0000</p>
+</div>
+
+</div>
+
+    </div>
   </body>
 </html>
