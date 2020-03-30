@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202003085174517">
+  <link rel="stylesheet" href="/assets/styles/main.css?202003090082402">
 </head>
 
   <body>
@@ -88,6 +88,8 @@
       
       <li><a href="/serviceprofile/arch-evaluation.html">Architecture Evaluation</a> - (<strong>serviceprofile</strong>)</li>
       
+      <li><a href="/serviceprofile/arch-prod-exch.html">Architecture Product Exchange</a> - (<strong>serviceprofile</strong>)</li>
+      
       <li><a href="/serviceprofile/arch-management.html">Architecture Management</a> - (<strong>serviceprofile</strong>)</li>
       
       <li><a href="/serviceprofile/arch-gov.html">Architecture Governance</a> - (<strong>serviceprofile</strong>)</li>
@@ -142,6 +144,7 @@
          <li class="service-color"><a href="/serviceprofile/arch-std-lang.html">Architecture Standard Language</a></li>
          <li class="service-color"><a href="/serviceprofile/arch-process.html">Architecture Process</a></li>
          <li class="service-color"><a href="/serviceprofile/arch-evaluation.html">Architecture Evaluation</a></li>
+         <li class="service-color"><a href="/serviceprofile/arch-prod-exch.html">Architecture Product Exchange</a></li>
          <li class="service-color"><a href="/serviceprofile/arch-management.html">Architecture Management</a></li>
          <li class="service-color"><a href="/serviceprofile/arch-gov.html">Architecture Governance</a></li>
       </ul>
@@ -162,6 +165,7 @@
    </td>
    <td>
       <p><em>Mandatory</em></p>
+      <p>Organisations will have to select one of the two agreed Meta Models either either Archimate from Open Group or UAF from OMG.</p>
       <ul spacing="compact">
          <li><a href="https://www.nato.int/cps/en/natohq/topics_157575.htm">C3B ac322-n2018-0002 - NATO Architecture Framework</a></li>
          <li><a href="https://publications.opengroup.org/c197">Open Group c197 - ArchiMate 3.1 Specification</a></li>
@@ -188,19 +192,17 @@
    </td>
    <td>
       <p><em>Mandatory</em></p>
+      <p>Depending on the meta Model uses the following specifications apply</p>
       <ul spacing="compact">
          <li><a href="https://www.omg.org/spec/UAF/1.0/">OMG formal/2017-12-02 - Unified Architecture Framework 1.0 (UAF) Domain Meta Model (DMM)</a></li>
          <li><a href="https://publications.opengroup.org/c197">Open Group c197 - ArchiMate 3.1 Specification</a></li>
-         <li><a href="http://www.omg.org/spec/UML/2.5.1/">OMG formal/2017-12-01 - Unified Modeling Language</a></li>
-         <li><a href="https://www.omg.org/spec/SysML/1.5/">OMG formal-17-05-01 - OMG Systems Modeling Language (OMG SysML)</a></li>
-         <li><a href="http://www.omg.org/spec/BPMN/2.0.2/">OMG formal/2013-12-09 - BPMN Business Process Model and Notation 2.0.2</a></li>
-         <li><a href="http://www.idef.com/idefo-function_modeling_method/">IDEF IDEF0 - Function Modeling Method</a></li>
-         <li><a href="http://www.idef.com/idef1x-data-modeling-method/">IDEF IDEF1X - Data Modelling Method</a></li>
-         <li><a href="http://www.omg.org/spec/SoaML/1.0.1/">OMG formal-2012-05-10 - Service Oriented Architecture Modeling Language (SOAML)</a></li>
       </ul>
       <p><em>Optional</em></p>
       <ul spacing="compact">
          <li><a href="https://www.eclipse.org/capella/">Eclipse Capella 1.4 - Arcadia/Capella</a></li>
+         <li><a href="http://www.idef.com/idefo-function_modeling_method/">IDEF IDEF0 - Function Modeling Method</a></li>
+         <li><a href="http://www.idef.com/idef1x-data-modeling-method/">IDEF IDEF1X - Data Modelling Method</a></li>
+         <li><a href="http://www.omg.org/spec/SoaML/1.0.1/">OMG formal-2012-05-10 - Service Oriented Architecture Modeling Language (SOAML)</a></li>
       </ul>
    </td>
    <td></td>
@@ -250,15 +252,44 @@
    </td>
    <td>
       <p><em>Mandatory</em></p>
+      <p>For evaluation of Architecture Products  use ISO/IEC/IEEE 42030 an ATAM as evaluation method is recommended</p>
       <ul spacing="compact">
          <li><a href="https://www.iso.org/standard/73436.html">ISO/IEC/IEEE 42030 - Enterprise, systems and software - Architecture Evaluation</a></li>
       </ul>
-      <p><em>Optional</em></p>
+      <p><em>Recommended</em></p>
+      <p>Use ATAM as evaluation method for architecture products.</p>
       <ul spacing="compact">
          <li><a href="http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177">SEI cmu-sei-2000-tr-004 - ATAM: Method for Architecture Evaluation</a></li>
       </ul>
+      <p><em>Mandatory</em></p>
+      <p>If assessment of the applied architecting process is required</p>
+      <ul spacing="compact">
+         <li><a href="https://www.iso.org/standard/68982.html">ISO/IEC/IEEE 42020 - Enterprise, systems and software - Architecture processes</a></li>
+      </ul>
    </td>
    <td></td>
+</tr>
+<tr>
+   <td colspan="3">
+      <p><strong>Architecture Product Exchange</strong></p>
+      <p>Architecture products shall be exchanged in accordance with 
+         the ArchiMate Model Exchange File Format using a pivot meta model
+      </p>
+   </td>
+</tr>
+<tr>
+   <td>
+      <p>Architecture Management Application</p>
+   </td>
+   <td>
+      <p><em>Mandatory</em></p>
+      <ul spacing="compact">
+         <li><a href="https://publications.opengroup.org/c19c">Open Group c19c - ArchiMate Model Exchange File Format for the ArchiMate Modeling Language 3.1</a></li>
+      </ul>
+   </td>
+   <td>
+      <p>This requires a new guidance document to be developed by the ACaT.</p>
+   </td>
 </tr>
 <tr>
    <td colspan="3">
@@ -277,7 +308,6 @@
       <p><em>Mandatory</em></p>
       <ul spacing="compact">
          <li><a href="https://www.iso.org/standard/68982.html">ISO/IEC/IEEE 42020 - Enterprise, systems and software - Architecture processes</a></li>
-         <li><a href="https://publications.opengroup.org/c19c">Open Group c19c - ArchiMate Model Exchange File Format for the ArchiMate Modeling Language 3.1</a></li>
       </ul>
    </td>
    <td>
@@ -312,7 +342,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Wed, 25 Mar 2020 17:45:17 +0000</div>
+        <div>Last updated on Mon, 30 Mar 2020 08:24:02 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
