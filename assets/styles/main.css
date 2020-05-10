@@ -339,7 +339,7 @@ table tbody tr td {
 .element-content h4,
 .element-content h5,
 .element-content td {
-  margin: 0 16px;
+  margin: 0 16px 0 0;
 }
 .element-title {
   font-size: 1.8rem;
