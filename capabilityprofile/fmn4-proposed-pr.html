@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202005151204012">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006153123020">
 </head>
 
   <body>
@@ -153,6 +153,7 @@
                      <li class="service-color"><a href="/serviceprofile/fmn4-proposed-isr-workflow-profile.html">Proposed FMN Spiral 4 ISR Workflow Serviceprofile</a></li>
                   </ul>
                </li>
+               <li class="service-color"><a href="/serviceprofile/fmn4-proposed-logistics-profile.html">Proposed FMN Spiral 4 Logistics Serviceprofile</a></li>
                <li class="profile-color"><a href="/profile/fmn4-proposed-pr-cis-security.html">Proposed FMN Spiral 4 CIS Security Service Profile</a><ul>
                      <li class="service-color"><a href="/serviceprofile/fmn4-proposed-cyber-information-exchange-profile.html">Proposed FMN Spiral 4 Cyber Information Exchange Serviceprofile</a></li>
                   </ul>
@@ -302,7 +303,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Land C2Information Exchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Land C2 Information Exchange Profile provides standards and guidance to support the exchange of Command and
+               Control information within a coalition network or a federation of networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -316,12 +321,24 @@
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2707&amp;LA=EN">NATO ADatP-5644 (Study) Ed A Ver 1 - Web Service Messaging Profile (WSMP)</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The MIP 4 profile should be used primarily for the exchange of Battlespace Objects; this profile is not intended to support
+               high volume, high frequency updates such as Friendly Force Tracks (FFT). Nor is it intended to support the exchange of data
+               over tactical bearers (with limited capacity and intermittent availability). The MIP interoperability specification comprises
+               both a mandatory technical interface specification as well as implementation guidance documents, and is available on the MIP
+               website (https //www.mip-interop.org). The MIP Baseline 4 specification is updated periodically and it is designed to safeguard
+               inter-version compatibility between increments.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Maritime C2 Information Exchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Maritime C2 Information Exchange Profile provides standards and guidance to support the exchange of Maritime
+               Recognized Picture (RMP) information within a coalition network or a federation of networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -330,6 +347,11 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               For the RMP Services for building the Operational RMP it is mandatory to implement NVG to provide
+               an interface for Cross COI Shared Situational Awareness where OTH-T GOLD cannot be processed
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://tide.act.nato.int/mediawiki/index.php/NATO_Vector_Graphics_%28NVG%29_Protocol">NATO TIDE/NVG - NATO Vector Graphics (NVG) Protocol version 1.5:2010 (ACT)</a></li>
             </ul>
@@ -342,12 +364,36 @@
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2707&amp;LA=EN">US DoD OTH-T Gold Baseline 2007 - Over-The-Horizon Targeting Gold baseline 2007</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The implementation of the following message types is mandatory 
+               <ul>
+                  <li>Contact Report (CTC);</li>
+                  <li>Enhanced Contact Report (XCTC); and</li>
+                  <li>Overlay Message (OVLY2, OVLY3).</li>
+               </ul>The implementation of the following message types is optional 
+               <ul>
+                  <li>Area of Interest Filter (AOI);</li>
+                  <li>FOTC Situation Report;</li>
+                  <li>Group Track Message (GROUP);</li>
+                  <li>Operator Note (OPNOTE); and</li>
+                  <li>PIM Track (PIMTRACK).</li>
+               </ul>These messages can be used for other C2 functions. For interconnecting C2 Systems and their RMP Services, the implementation
+               of the following transport protocol to share OTH-T GOLD messages is mandatory 
+               <ul>
+                  <li>TCP (connect, send, disconnect) - default port 2020</li>
+               </ul>End-users that do not have RMP Applications MAY generate OTH-T GOLD messages manually and transmit them via eMail/SMTP.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Command and Control Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Land Tactical C2 Information Exchange Profile provides standards and guidance with regard to a core set of
+               Command and Control information and also on how to exchange XML messages within a coalition tactical environment
+               with mobile units
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -359,12 +405,25 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               AEP-76 is to be used for direct C2 Data Exchange between coalition units at the Mobile Tactical
+               Edge, where a shared interoperability network is in place built upon the loaned radio concept. The
+               information exchange mechanism of AEP-76 supports the efficient information exchange of XML
+               messages over a coalition mobile tactical edge network.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2651&amp;LA=EN">NATO AEP-76 Vol1 Ed A Ver 2 - Specifications Defining The Joint Dismounted Soldier System Interoperability Network (JDSSIN) - Security</a></li>
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2654&amp;LA=EN">NATO AEP-76 Vol4 Ed A Ver 2 - Specifications Defining the Joint Dismounted Soldier System Interoperability Network (JDSSIN) - Information Exchange Mechanism</a></li>
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2655&amp;LA=EN">NATO AEP-76 Vol5 Ed A Ver 2 - Specifications Defining the Joint Dismounted Soldier System Interoperability Network (JDSSIN) - Network Access</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               AEP-76 is to be used for direct C2 Data Exchange between coalition units at the Mobile Tactical
+               Edge, where a shared interoperability network is in place built upon the loaned radio concept. The
+               data model of AEP-76 is based on MIP 3.1 XML messages.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2651&amp;LA=EN">NATO AEP-76 Vol1 Ed A Ver 2 - Specifications Defining The Joint Dismounted Soldier System Interoperability Network (JDSSIN) - Security</a></li>
                <li><a href="https://nso.nato.int/protected/nsdd/APdetails.html?APNo=2652&amp;LA=EN">NATO AEP-76 Vol2 Ed A Ver 2 - Specifications Defining the Joint Dismounted Soldier System Interoperability Network (JDSSIN) - Data Model</a></li>
@@ -464,7 +523,21 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Cyber Information Exchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Cyber Information Exchange Profile provides standards are used to exchange information about cyber threats.
+               Structured Threat Information Expression (STIX) is an information model and serialization for cyber threat intelligence
+               (CTI). By allowing the consistent expression of CTI in a machine­readable specification, STIX supports shared threat
+               analysis, machine automation, and information sharing. It enables use cases such as indicator exchange, management
+               of response activities, shared malware analysis, and higher ­level threat intelligence sharing.
+               Trusted Automated eXchange of Intelligence Information (TAXII) is an application layer protocol for the communication
+               of cyber threat information in a simple and scalable manner. It defines services and message exchanges that enable
+               organizations to share the information they choose with the partners they choose. TAXII is designed to transport STIX
+               Objects.
+               Some of the important use cases are data feed providers such as an intel provider trying to share what indicators they
+               see for threats, and sharing that with either Threat Intelligence Platforms (TIPS), sharing it with threat mitigation systems
+               for example, like a firewall.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -473,10 +546,23 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               STIX provides a bundle as a container for STIX objects to allow for transportation of bulk STIX data.
+               TAXII is specifically designed to support the exchange of CTI represented in STIX. This does not
+               mean TAXII cannot be used to share data in other formats; it is designed for STIX, but is not limited
+               to STIX. Nonetheless, TAXII is not mandatory for this exchange and C_SOC are suggested to
+               distribute STIX Bundles via mailing lists or web-publication.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://docs.oasis-open.org/cti/taxii/v2.0/cs01/taxii-v2.0-cs01.html">OASIS TAXII Version 2.0 - Trusted Automated eXchange of Intelligence Information</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               STIX 2.0 is transport-agnostic, i.e., the structures and serializations do not rely on any specific
+               transport mechanism.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://docs.oasis-open.org/cti/stix/v2.0/stix-v2.0-part1-stix-core.html">OASIS STIX Version 2.0 Part 1 - STIX Core Concepts</a></li>
                <li><a href="http://docs.oasis-open.org/cti/stix/v2.0/stix-v2.0-part2-stix-objects.html">OASIS STIX Version 2.0 Part 2 - STIX Core Concepts</a></li>
@@ -508,7 +594,13 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Service Implementation Trouble Ticketing Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Service Implementation Profile for Trouble Ticketing enables the handover between the incident sending Service
+               Providers and the incident receiving Service Provider. The handover point is set after incident inception, logging and
+               categorization and before incident prioritization. The profile provides the implementation guidance for the TMForum
+               Trouble Ticket API REST Specification.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -523,17 +615,75 @@
                <li><a href="https://www.tmforum.org/resources/technical-report/tr250-api-rest-conformance-guidelines-r15-5-1/">TM-FORUM TR250 - API REST Conformance Guidelines R15.5.1 Standard</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following extended attribute should be included in the message as nested sub-entities mapped
+               as follows: confidentialityInformation as "related object" with involvement "confidentialityInformation"
+               data-origID="input_13" class="createboxInput autoGrow" rows="2" cols="90" style="width: auto"&gt;The
+               following extended attribute should be included in the message as nested sub-entities mapped as
+               follows: confidentialityInformation as "related object" with involvement "confidentialityInformation"
+               data-origID="input_13" class="createboxInput autoGrow" rows="2" cols="90" style="width: auto"&gt;The
+               following extended attribute should be included in the message as nested sub-entities mapped as
+               follows: confidentialityInformation as "related object" with involvement "confidentialityInformation"
+               data-origID="input_13" class="createboxInput autoGrow" rows="2" cols="90" style="width: auto"&gt;The
+               following extended attribute should be included in the message as nested sub-entities mapped as
+               follows: confidentialityInformation as "related object" with involvement "confidentialityInformation" and
+               with PolicyIdentifier, Classification, Privacy Mark and Category.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4774 Ed 1 - Confidentiality Metadata Label Syntax - ADatP-4774 Edition A</a></li>
                <li><a href="https://nso.nato.int/">NATO ADatP-4774 Ed A Ver 1 - Confidentiality Metadata Label Syntax</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The following set of extended attributes shall be included in the message as nested sub-entities mapped as follows 
+               <ul>
+                  <li>securityMarking  human readable text reflecting the security classification of the incident in accordance with the applicable
+                     security policy (e.g. NATO UNCLASSIFIED)
+                  </li>
+                  <li>impactedService  as related object with involvement  impactedService and reference pointing to a resource of type Service</li>
+                  <li>assigneeGroup  support group to which the incident is assigned to be implemented as related party with role  assigneeGroup
+                     and reference pointing to a Party resource
+                  </li>
+                  <li>attachment  as related object with involvement  relatedAttachment and reference pointing to a binary file resource</li>
+                  <li>relatedEvents  as related object with involvement  relatedEvent and reference pointing to a resource of type Event</li>
+                  <li>relatedProblems  as related object with involvement  relatedProblem and reference pointing to a resource of type Problem</li>
+                  <li>relatedServiceRequests  as related object with involvement  relatedServiceRequest and reference pointing to a resource of
+                     type ServiceRequest
+                  </li>
+                  <li>relatedSecurityIncidents  as related object with involvement  relatedSecurityIncident and reference pointing to a resource
+                     of type SecurityIncident
+                  </li>
+                  <li>relatedMajorIncidents  as related object with involvement  relatedMajorIncident and reference pointing to a resource of type
+                     MajorIncident
+                  </li>
+                  <li>location  as related object with involvement  impactedLocation and reference pointing to a resource of type Location</li>
+               </ul>
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Service Implementation Request Managing Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Service Implementation Profile for Request Managing enables the handover of service requests between a sending
+               Service Provider and a receiving Service Provider. The handover point is set after the request data validation and
+               request prioritization and before the approval steps.
+               The Service Implementation Profile for Request Managing provides implementation guidance for the TMForum Product
+               Ordering API REST Specification. The IER for an incident record handover is represented in this API as follows:
+               id: ID created on the receiving side request management system (initially empty)externalId: ID of the request on the requestor's
+               system (to facilitate searches afterwards)description: Description of the requestpriority: The consumers indication based
+               on per agreed priority levels (0 = highest priority, 4 = lowest priority)orderDate: Date when the request was createdrequestedCompletionDate:
+               Requested delivery date from the requestor perspectiveexpactedCompletionDate: Expected delivery date amended by the providerrequestedStartDate:
+               Order start date wished by the requestorcompletionDate: Date when the order was actually completednotificationContact: Customer
+               contact to be notified on request completionhref: hyperlink to access the order direct access to REST resourceid: ID created
+               on the receiving side request management system (this MUST be initially empty)externalId: ID of the request on the requestor's
+               system (used to facilitate searches afterwards)description: Description of the requestpriority: The consumers indication based
+               on preagreed priorities ranging from levels 0 = highest priority to 4 = lowest
+               priorityorderDate: Date when the request was created
+               
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -542,16 +692,45 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Service Providers using the TMForum Product Ordering API to federate their ITSM systems are
+               responsible for implementing internally the business logic to utilize the additional related attributes.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.tmforum.org/resources/standard/tmf622-product-ordering-api-rest-specification-r14-5-0/">TM-FORUM TMF622 - Product Ordering API REST Specification R14.5.1 Interface</a></li>
                <li><a href="https://www.tmforum.org/resources/technical-report/tr250-api-rest-conformance-guidelines-r15-5-1/">TM-FORUM TR250 - API REST Conformance Guidelines R15.5.1 Standard</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following extended attribute should be included in the message as nested sub-entities mapped
+               as follows: confidentialityInformation as "related object" with involvement "confidentialityInformation"
+               data-origID="input_13" class="createboxInput autoGrow" rows="2" cols="90" style="width: auto"&gt;The
+               following extended attribute should be included in the message as nested sub-entities mapped as
+               follows: confidentialityInformation as "related object" with involvement "confidentialityInformation" and
+               with PolicyIdentifier, Classification, Privacy Mark and Category.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4774 Ed 1 - Confidentiality Metadata Label Syntax - ADatP-4774 Edition A</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The following additional attributes shall be included in the message as nested sub-entities as specified in 
+               <ul>
+                  <li>securityMarking</li>
+                  <li>orderItem</li>
+                  <li>product</li>
+                  <li>relatedParty</li>
+                  <li>note</li>
+                  <li>location</li>
+                  <li>securityDomain</li>
+                  <li>releasabilityCommunity</li>
+                  <li>orderItem</li>
+                  <li>product</li>
+               </ul>
+            </p>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -1962,7 +2141,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Sat, 30 May 2020 20:40:12 +0000</div>
+        <div>Last updated on Mon, 01 Jun 2020 12:30:20 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>

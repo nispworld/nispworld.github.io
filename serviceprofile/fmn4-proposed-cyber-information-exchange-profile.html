@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202005151204012">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006153123020">
 </head>
 
   <body>
@@ -32,7 +32,7 @@
 
 <dl>
   <dt class="data-label">Description</dt>
-  <dd class="data-value"></dd>
+  <dd class="data-value">The Cyber Information Exchange Profile provides standards are used to exchange information about cyber threats. Structured Threat Information Expression (STIX) is an information model and serialization for cyber threat intelligence (CTI). By allowing the consistent expression of CTI in a machine­readable specification, STIX supports shared threat analysis, machine automation, and information sharing. It enables use cases such as indicator exchange, management of response activities, shared malware analysis, and higher ­level threat intelligence sharing. Trusted Automated eXchange of Intelligence Information (TAXII) is an application layer protocol for the communication of cyber threat information in a simple and scalable manner. It defines services and message exchanges that enable organizations to share the information they choose with the partners they choose. TAXII is designed to transport STIX Objects. Some of the important use cases are data feed providers such as an intel provider trying to share what indicators they see for threats, and sharing that with either Threat Intelligence Platforms (TIPS), sharing it with threat mitigation systems for example, like a firewall.</dd>
 </dl>
 
 <div class="meta-block">
@@ -88,7 +88,7 @@
 
 
 <p><strong>Obligation</strong>: Recommended, <strong>Lifecycle</strong>: Candidate</p>
-<p></p>
+<p>STIX provides a bundle as a container for STIX objects to allow for transportation of bulk STIX data. TAXII is specifically designed to support the exchange of CTI represented in STIX. This does not mean TAXII cannot be used to share data in other formats; it is designed for STIX, but is not limited to STIX. Nonetheless, TAXII is not mandatory for this exchange and C_SOC are suggested to distribute STIX Bundles via mailing lists or web-publication.</p>
 <ul>
 
   
@@ -99,7 +99,7 @@
 </ul>
 
 <p><strong>Obligation</strong>: Mandatory, <strong>Lifecycle</strong>: Candidate</p>
-<p></p>
+<p>STIX 2.0 is transport-agnostic, i.e., the structures and serializations do not rely on any specific transport mechanism.</p>
 <ul>
 
   
@@ -191,7 +191,7 @@
 </div>
 
       <div class="footer">
-        <div>Last updated on Sat, 30 May 2020 20:40:12 +0000</div>
+        <div>Last updated on Mon, 01 Jun 2020 12:30:20 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>

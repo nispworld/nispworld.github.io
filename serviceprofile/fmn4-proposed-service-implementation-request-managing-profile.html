@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202005151204012">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006153123020">
 </head>
 
   <body>
@@ -32,7 +32,7 @@
 
 <dl>
   <dt class="data-label">Description</dt>
-  <dd class="data-value"></dd>
+  <dd class="data-value">The Service Implementation Profile for Request Managing enables the handover of service requests between a sending Service Provider and a receiving Service Provider. The handover point is set after the request data validation and request prioritization and before the approval steps. The Service Implementation Profile for Request Managing provides implementation guidance for the TMForum Product Ordering API REST Specification. The IER for an incident record handover is represented in this API as follows  id  ID created on the receiving side request management system (initially empty)externalId  ID of the request on the requestor's system (to facilitate searches afterwards)description  Description of the requestpriority  The consumers indication based on per agreed priority levels (0 = highest priority, 4 = lowest priority)orderDate  Date when the request was createdrequestedCompletionDate  Requested delivery date from the requestor perspectiveexpactedCompletionDate  Expected delivery date amended by the providerrequestedStartDate  Order start date wished by the requestorcompletionDate  Date when the order was actually completednotificationContact  Customer contact to be notified on request completionhref  hyperlink to access the order direct access to REST resourceid  ID created on the receiving side request management system (this MUST be initially empty)externalId  ID of the request on the requestor's system (used to facilitate searches afterwards)description  Description of the requestpriority  The consumers indication based on preagreed priorities ranging from levels 0 = highest priority to 4 = lowest priorityorderDate  Date when the request was created</dd>
 </dl>
 
 <div class="meta-block">
@@ -88,7 +88,7 @@
 
 
 <p><strong>Obligation</strong>: Mandatory, <strong>Lifecycle</strong>: Candidate</p>
-<p></p>
+<p>Service Providers using the TMForum Product Ordering API to federate their ITSM systems are responsible for implementing internally the business logic to utilize the additional related attributes.</p>
 <ul>
 
   
@@ -104,7 +104,7 @@
 </ul>
 
 <p><strong>Obligation</strong>: Recommended, <strong>Lifecycle</strong>: Candidate</p>
-<p></p>
+<p>The following extended attribute should be included in the message as nested sub-entities mapped as follows  confidentialityInformation as "related object" with involvement "confidentialityInformation" data-origID="input_13" class="createboxInput autoGrow" rows="2" cols="90" style="width  auto">The following extended attribute should be included in the message as nested sub-entities mapped as follows  confidentialityInformation as "related object" with involvement "confidentialityInformation" and with PolicyIdentifier, Classification, Privacy Mark and Category.</p>
 <ul>
 
   
@@ -176,7 +176,7 @@
 </div>
 
       <div class="footer">
-        <div>Last updated on Sat, 30 May 2020 20:40:12 +0000</div>
+        <div>Last updated on Mon, 01 Jun 2020 12:30:20 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
