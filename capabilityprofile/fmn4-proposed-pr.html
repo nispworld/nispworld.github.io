@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202006153194050">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006156194557">
 </head>
 
   <body>
@@ -753,7 +753,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Battlespace Event Federation Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Battlespace Event Federation Profile provides standards and guidance to support the exchange of information on
+               significant incidents, important events, trends and activities within a coalition network or a federation of networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -762,6 +766,26 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               To support exploitation the following APP-11 message formats MUST be supported (MTF Identifier,
+               MTF Index Ref Number):
+               Incident Report (INCREP, A078)Incident Spot Report (INCSPOTREP, J006)Troops in Contact SALTA format (SALTATIC, A073)Events
+               Report (EVENTREP, J092)Improvised Explosive Device Report (IEDREP, A075)
+               
+               The INCREP is used to report any significant incident caused by terrorism, civil unrest, natural
+               disaster, or media activity.
+               The INCSPOTREP is used to provide time critical information on important events that have an
+               immediate impact on operations.
+               The SALTATIC is used to report troops in contact, the report should be made as soon as possible by
+               the unit that has come under some form of attack. It uses the following basic format: Size of enemy,
+               Action of enemy, Location, Time and Action taken.
+               The EVENTREP is used to provide the chain of command information about important Events, trends
+               and activities that do not have an element of extreme urgency, but do influence on-going operations.
+               The IEDREP is sent when an IED has been encountered. It identifies the hazard area, tactical
+               situation, operational priorities and the unit affected. This initial report should be followed by normal
+               EOD/Engineer reporting requirements.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO Study (expected) APP-11 Ed E Ver 1 - NATO Message Catalogue</a></li>
             </ul>
@@ -771,7 +795,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Friendly Force Tracking Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Friendly Force Tracking Profile provides standards and guidance to support the exchange of Friendly Force
+               Tracking information within a coalition network or a federation of networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -786,12 +814,34 @@
                <li><a href="https://nso.nato.int/">NATO Study (expected) APP-11 Ed E Ver 1 - NATO Message Catalogue</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Messages exchanged according to the exchange mechanisms described in ADatP-36(A) and in the related ADatPT-36(A)(1) Best Practice
+               shall comply with the Message Text Format (FFI MTF) schema incorporated in APP-11.IP1 is the preferred protocol for FMN Spiral 4. Where needed, the other ADatP-36(A) protocols (IP2, SIP3, and WSMP) may be
+               used if the situation requires this, and this MUST be determined on instantiation.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 JREAP Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Joint Range Extension Application Protocol (JREAP) enables Link 16 tactical data to be transmitted over digital
+               media and networks not originally designed for tactical data exchange. Full detail of JREAP instructions and procedures
+               can be found in STANAG 5518 Ed1 - Interoperability Standard for Joint Range Extension Application Protocol (JREAP).
+               Link 16 messages (i.e. J-series) are embedded inside of the JREAP. JREAP management messages (i.e. X-series) are
+               used, in order to ensure proper dissemination of the Link 16 messages.
+               Capabilities are provided that include:
+               Extending the range-limited tactical networks to beyond LOS while reducing their dependence upon relay platformsReducing the
+               loading on stressed networksProviding backup communications in the event of the loss of the normal linkProviding a connection
+               to a platform that may not be equipped with the specialized communications equipment for
+               that TDL.
+               
+               For media that do not support OSI network and transport layers, the JREAP provides network and transport layer
+               functionality. For media supporting OSI network and transport layers, the JREAP is encapsulated within those layers.
+               JREAP software can be integrated into a host system or into a stand-alone processor. The appropriate interface
+               terminals are required at each end of any JREAP alternate media link.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -800,21 +850,42 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               JREAP offers the transmission mechanism. Track Service is performed by Link 16
+               
+            </p>
             <ul spacing="compact">
                <li><a href="">NATO STANAG 5516 FT Ed 8 - Tactical Data Exchange - Link 16 - ATDLP-5.16 Edition B</a></li>
                <li><a href="https://nso.nato.int/">NATO STANAG 5518 Ed 1 - Standard for Joint Range Extension Application Protocol (JREAP)</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               STANAG 5602 covers ATDLP-6.02 (SIMPLE), which specifies the requirements for the transfer of
+               data between remote sites to support the interoperability testing of tactical data link implementations
+               in different platforms.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 5602 Ed 4 - Standard Interface for Multiple Platform Link Evaluation (SIMPLE) - ATDLP-6.02 Edition A</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>===JREAP=== JREAP is designed to support operations using Link 16 over most communication media (JRE media) including forwarding
+               TDL data over SATCOM links (JREAP-A), Serial links (JREAP-B), and over IP networks (JREAP-C).Each JRE medium has unique characteristics. It supports UDP Unicast, UDP multicast, and TCP.For implementation in FMN only JREAP, Appendix C - ENCAPSULATION OVER INTERNET PROTOCOL (IP) - is to be used.===SIMPLE=== The SIMPLE protocol is going to be used only for Verification and Validation purpose of all systems employing
+               or interfacing with tactical data links and only when the systems do not support JREAP. It is not going to be used within
+               the operational network for operational purpose.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Overlay Distribution Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               This profile covers the standards for (military) symbology and overlays that identify locations on the surface of the
+               planet. These overlays are employed when disseminating recognized domain or functional pictures and related picture
+               elements as overlays between different communities of interest in a federated mission network environment.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -823,24 +894,58 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Conditional for two use cases that typically involve cross-domain information exchange:
+               sharing overlays with non-military partners who are not on the mission network and who do not
+               use military symbology, andexchanging of targeting and intelligence products that are prepared on national networks.
+               
+               When exporting KML files that reference external resources, KMZ as defined in "Annex C: KMZ Files"
+               must be used and all relevant referenced external resources must be included in the KMZ structure
+               as relative references. The references to these files can be found in the href attribute (or sometimes,
+               the element) of several KML elements. To enable cross domain exchange and long-term preservation
+               relative references must be used for those resources that are included in the KMZ structure. As many
+               Earth Viewers only work with legacy PKZIP 2.x format for KMZ, .zip folders shall be created in
+               accordance with https://www.pkware.com/documents/APPNOTE/APPNOTE-2.0.txt.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://www.opengeospatial.org/standards/kml/">OGC 07-147r2 - OGC KML</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               If NVG 2.0.2 becomes available in the NATO Interoperability Standards and Profiles (ADatP-36)
+               before approval of the FMN Spiral 4 Specification, the newer version shall be used.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://tide.act.nato.int/mediawiki/index.php/NATO_Vector_Graphics_%28NVG%29_Protocol">NATO TIDE/NVG - NATO Vector Graphics (NVG) Protocol version 1.5:2010 (ACT)</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               Applies to NVG only
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO APP-06 Ed D Ver 1 - NATO Joint Military Symbology</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>All presentation services shall render tracks, tactical graphics, and Battlespace objects using these symbology standards
+               except in the case where the object being rendered is not covered in the standard. In these exceptional cases, additional
+               symbols shall be defined as extensions of existing symbol standards and must be backwards compatible. These extensions shall
+               be submitted as a request for change within the configuration management process to be considered for inclusion in the next
+               version of the specification.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Tactical Message Distribution Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Air Information Exchange Profile provides standards and guidance to support the exchange of Recognized Air
+               Picture (RAP) information within a coalition network or a federation of networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -851,20 +956,63 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The Standard for Joint Range Extension Application Protocol (JREAP) - ATDLP-5.18 Edition B
+               enables TDL data to be transmitted over digital media and networks not originally designed for
+               tactical data exchange. JREAP consists of three different protocols: A, B and C. For implementation
+               in FMN only JREAP, Appendix C 'Encapsulation over Internet Protocol (IP)' which enables TDL data
+               to be transmitted over an IP network must be used.
+               As per the common time reference within JREAP, UTC must be supported as the common time
+               reference. If no common time reference is available, round-trip shall be used.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO ATDLP-5.18 Ed A Ver 1 - Standard for Joint Range Extension Application Protocol (JREAP)</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The "Minimum Link-16 Message Profile", as described in the FMN Spiral 3 Service Interface Profile
+               for RAP Data, defines the minimum set of data elements that are required to be available for
+               operational or technical reasons so that correctly formatted technical message can be generated to
+               establish a Recognized Air Picture in a federated environment. The implementation of the following
+               message types of STANAG 5516 is MANDATORY:
+               Precise Participant Location and Identification (PPLI) Messages
+               J2.0 Indirect Interface Unit PPLIJ2.2 Air PPLIJ2.3 Surface (Maritime) PPLIJ2.4 Subsurface (Maritime) PPLIJ2.5 Land (Ground)
+               Point PPLIJ2.6 Land (Ground) Track PPLI
+               Surveillance Messages
+               J3.0 Reference PointJ3.1 Emergency PointJ3.2 Air Track messageJ3.3 Surface (Maritime) TrackJ3.4 Subsurface (Maritime) TrackJ3.5
+               Land (Ground) Point/TrackJ3.7 Electronic Warfare Product Information
+               
+               
+               To maximize the ability to share tactical data in support of Situational Awareness, the following
+               message types must also be supported:
+               J7 Information ManagementJ8 Information ManagementJ9 Weapons Coordination and ManagementJ10 Weapons Coordination and ManagementJ12
+               ControlJ13 Platform and System StatusJ15 Threat WarningJ17 Miscellaneous
+               
+               More recent editions of this standard may be implemented for operational use and edition 8 is the
+               absolute minimum to guarantee Link 16 tactical message distribution.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="">NATO STANAG 5516 FT Ed 8 - Tactical Data Exchange - Link 16 - ATDLP-5.16 Edition B</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>With regards to JREAP  JREAP is designed to support operations using Link 16 over most communication media (JRE media) including
+               forwarding TDL data over SATCOM links (JREAP-A), Serial links (JREAP-B), and over IP networks (JREAP-C). Each JRE medium has
+               unique characteristics. It supports UDP Unicast, UDP multicast, and TCP. For implementation in FMN only JREAP, Appendix C
+               Encapsulation over Internet Protocol (IP) is to be used.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Ground-to-Air Situational Awareness Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Ground-to-Air Situational (G2A) Awareness Profile provides standards and guidance to support the exchange of
+               Friendly Force Tracking information within a coalition network or a federation of networks over Link 16.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -878,7 +1026,12 @@
                <li><a href="https://nso.nato.int/">NATO ADatP-37 Ed A ver 1 - Services to forward Friendly Force Information to Weapon Delivery Assets</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Messages exchanged according to the exchange mechanisms described in ADatP-37(A) shall comply with the J-series message schema
+               defined STANAG 5516, Tactical Data Exchange – Link 16 and STANAG 5518, Interoperability Standard for Joint Range Extension
+               Application Protocol (JREAP)
+            </p>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -2141,7 +2294,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Mon, 01 Jun 2020 19:40:50 +0000</div>
+        <div>Last updated on Thu, 04 Jun 2020 19:45:57 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
