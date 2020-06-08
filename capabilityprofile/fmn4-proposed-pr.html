@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202006159185512">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006160133327">
 </head>
 
   <body>
@@ -1054,7 +1054,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Basic Text-based Collaboration Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Basic Text-based Collaboration Profile provides standards and guidance to establish a basic near-real time
+               text-based group collaboration capability (chat) for time critical reporting and decision making in military operations.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1064,6 +1068,12 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are required to achieve compliance for an XMPP Server and an XMPP
+               Client dependent upon the categorisation of presenting a core or advanced instant messaging
+               service interface.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://xmpp.org/extensions/xep-0004.html">XMPP XEP-0004 - XEP-0004: Data Forms</a></li>
                <li><a href="http://xmpp.org/extensions/xep-0012.html">XMPP XEP-0012 - XEP-0012: Last Activity</a></li>
@@ -1087,6 +1097,10 @@
                <li><a href="http://xmpp.org/extensions/xep-0258.html">XMPP XEP-0258 - XEP-0258: Security Labels in XMPP</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are the base IETF protocols for interoperability of chat services.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc6120.txt">IETF RFC 6120 - Extensible Messaging and Presence Protocol (XMPP): Core</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc6121.txt">IETF RFC 6121 - Extensible Messaging and Presence Protocol (XMPP): Instant Messaging and Presence</a></li>
@@ -1098,7 +1112,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Content Encapsulation Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Content Encapsulation Profile provides standards and guidance for content encapsulation within bodies of internet
+               messages, following the Multipurpose Internet Mail Extensions (MIME) specification.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1107,6 +1125,10 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Media and Content Types:
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc1896.txt">IETF RFC 1896 - The text/enriched MIME Content-type</a></li>
                <li><a href="www.w3.org/TR/2014/REC-html5-20141028/">W3C REC-html5-20141028 - Hypertext Markup Language revision 5 (HTML5)</a></li>
@@ -1116,6 +1138,10 @@
                <li><a href="https://www.ietf.org/rfc/rfc5147.txt">IETF RFC 5147 - URI Fragment Identifiers for the text/plain Media Type</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               MIME Encapsulation
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc2045.txt">IETF RFC 2045 - MIME - Part 1: Format of Internet Message Bodies</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc2046.txt">IETF RFC 2046 - MIME - Part 2: Media Types</a></li>
@@ -1129,7 +1155,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Informal Messaging Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Informal Messaging Profile provides standards and guidance for SMTP settings and the marking of informal
+               messages.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1138,6 +1168,11 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Regarding Simple Mail Transfer Protocol (SMTP), the following standards are mandated for
+               interoperability of e-mail services within the Mission Network.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://tools.ietf.org/html/rfc5321">IETF RFC 5321 - Simple Mail Transfer Protocol</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc1870.txt">IETF RFC 1870 - SMTP Service Extension for Message Size Declaration</a></li>
@@ -1149,12 +1184,23 @@
                <li><a href="https://www.ietf.org/rfc/rfc4954.txt">IETF RFC 4954 - SMTP Service Extension for Authentication</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Informal messages must be marked in the message header field Keywords (IETF RFC 5322) and firstline-of-text in the message
+               body in accordance with the markings defined in the Security Policy in effect.TLS with mutual authentication is mandatory for all SMTP communications. Detailed TLS protocol requirements are specified
+               in the 'Service Interface Profile for Transport Layer Security'.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Basic Text-based Collaboration Chatroom Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Basic Text-based Collaboration Chatroom Profile provides standards and guidance to host chatrooms to support
+               persistent near-real time text-based group collaboration capability (chat) for time critical reporting and decision making
+               in
+               military operations.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1164,12 +1210,20 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               XMPP Services hosting the shared chatrooms must comply with the following additional extensions.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://xmpp.org/extensions/xep-0059.html">XMPP XEP-0059 - XEP-0059: Result Set Management</a></li>
                <li><a href="https://xmpp.org/extensions/xep-0082.html">XMPP XEP-0082 - XEP-0082: XMPP Date and Time Profiles</a></li>
                <li><a href="https://xmpp.org/extensions/xep-0313.html">XMPP XEP-0313 - XEP-0313: Message Archive Management</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               XMPP Services hosting the shared chatrooms may comply with the following additional extensions.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://xmpp.org/extensions/xep-0334.html">XMPP XEP-0334 - XEP-0334: Message Processing Hints</a></li>
                <li><a href="https://xmpp.org/extensions/xep-0346.html">XMPP XEP-0346 - XEP-0346: Form Discovery and Publishing</a></li>
@@ -1180,7 +1234,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Informal Messaging Services Metadata Labelling Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Informal Messaging Services Metadata Labelling Profile describes how to apply standard Metadata to Informal
+               Messaging Services.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1189,22 +1247,36 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The STANAG describes the syntax for NATO Core Metadata.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 5636 (Study) Ed 1 - NATO Core Metadata Specification - ADatP-39 Edition A</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The STANAGs and binding profiles describe the syntax and mechanisms for applying Metadata.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4774 Ed 1 - Confidentiality Metadata Label Syntax - ADatP-4774 Edition A</a></li>
                <li><a href="https://nso.nato.int/">NATO STANAG 4778 Ed 1 - Metadata Binding - ADatP-4778 Edition A</a></li>
                <li><a href="https://storage.nisp.nw3.dk/TN-1491_Edition2-Binding_Profiles_v1.0-Signed.pdf">NCIA TN-1491 Edition 2 - Profiles for Binding Metadata to a Data Object</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The structure of the binding is defined in Annex B of TN-1491.The labelling Values shall be based on the Security Policy defined for the Mission.</p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Text-Based Collaboration Services Metadata Labelling Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Text-Based Collaboration Services Metadata Labelling Profile describes how to apply standard Metadata to
+               Text-Based Collaboration Services.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1213,22 +1285,38 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
-            <ul spacing="compact">
-               <li><a href="https://nso.nato.int/">NATO STANAG 5636 (Study) Ed 1 - NATO Core Metadata Specification - ADatP-39 Edition A</a></li>
-            </ul>
-            <p><em>Candidate</em></p>
+            <p>
+               The STANAGs and binding profiles describe the syntax and mechanisms for applying Metadata.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4774 Ed 1 - Confidentiality Metadata Label Syntax - ADatP-4774 Edition A</a></li>
                <li><a href="https://nso.nato.int/">NATO STANAG 4778 Ed 1 - Metadata Binding - ADatP-4778 Edition A</a></li>
                <li><a href="https://storage.nisp.nw3.dk/TN-1491_Edition2-Binding_Profiles_v1.0-Signed.pdf">NCIA TN-1491 Edition 2 - Profiles for Binding Metadata to a Data Object</a></li>
             </ul>
+            <p><em>Candidate</em></p>
+            <p>
+               The STANAG describes the syntax for NATO Core Metadata.
+               
+            </p>
+            <ul spacing="compact">
+               <li><a href="https://nso.nato.int/">NATO STANAG 5636 (Study) Ed 1 - NATO Core Metadata Specification - ADatP-39 Edition A</a></li>
+            </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The structure of the binding is defined in Annex C of TN-1491.The labelling Values shall be based on the Security Policy defined for the Mission.</p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Calendaring Exchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The calendaring exchange profile provides standards and guidance for the exchange Meeting Requests, Free/Busy
+               information as well as Calendar sharing implemented by CUA software.
+               The focus of this standard is on the exchange of the aforementioned information items and does not cover other typical
+               features found in collaboration software, e.g. chat or workflows.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1243,12 +1331,22 @@
                <li><a href="https://www.ietf.org/rfc/rfc6047.txt">IETF RFC 6047 - iCalendar Message-Based Interoperability Protocol (iMIP)</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>RFC 5545 is required in order to allow a vendor independent representation and exchange of calendaring and scheduling information
+               such as events, to-dos, journal entries, and free/busy information, independent of any particular calendar service or protocol.RFC 5546 defines the scheduling methods that permit two or more calendaring systems to perform transactions such as publishing,
+               scheduling, rescheduling, responding to scheduling requests, negotiating changes, or canceling.RFC 6047 defines how calendaring entries defined by the iCalendar Object Model (iCalendar) are wrapped and transported over
+               SMTP.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Audio-based Collaboration Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Audio-based Collaboration Profile provides standards and guidance for the implementation of an interoperable
+               voice system (telephony) on federated mission networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1257,18 +1355,32 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are used for audio protocols.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://www.itu.int/rec/T-REC-G.729/e">ITU-T G.729 - Coding of speech at 8 kbit/s using conjugate-structure algebraic-code-excited linear prediction (CS-ACELP)</a></li>
                <li><a href="http://www.itu.int/rec/T-REC-G.722.1/recommendation.asp?lang=en&amp;parent=T-REC-G.722.1-200806-I!Cor1">ITU-T G.722.1 (2005) Corrigendum 1 (06/08) - Low-complexity coding at 24 and 32 kbit/s for hands-free operation in systems with low frame loss</a></li>
                <li><a href="https://www.itu.int/rec/T-REC-G.711-198811-I/en">ITU-T G.711 - Pulse code modulation (PCM) of voice frequencies</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Voice over IP (VoIP) refers to unprotected voice communication services running on unclassified IP networks e.g. conventional
+               IP telephony. Voice over Secure IP (VoSIP) refers to non-protected voice service running on a classified IP networks. Depending
+               on the security classification of a FMN instance, VoIP or VoSIP is mandatory.If a member choses to use network agnostic Secure Voice services in addition to VoSIP, then SCIP specifications as defined
+               for audio-based collaboration services (end-to-end protected voice) shall be used.The voice sampling interval is 40ms.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Video-based Collaboration Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Video-based Collaboration Profile provides standards and guidance for the implementation and configuration of
+               Video Tele Conferencing (VTC) systems and services in a federated mission network.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1277,26 +1389,49 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Not required at this time, but when available it can be implemented between dedicated network
+               segments after approval from the MN administrative authority.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc4582.txt">IETF RFC 4582 - The Binary Floor Control Protocol (BFCP)</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are required for audio coding in VTC.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://www.itu.int/rec/T-REC-G.722.1/recommendation.asp?lang=en&amp;parent=T-REC-G.722.1-200806-I!Cor1">ITU-T G.722.1 (2005) Corrigendum 1 (06/08) - Low-complexity coding at 24 and 32 kbit/s for hands-free operation in systems with low frame loss</a></li>
                <li><a href="https://www.itu.int/rec/T-REC-G.711-198811-I/en">ITU-T G.711 - Pulse code modulation (PCM) of voice frequencies</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are required for video coding in VTC.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://www.itu.int/rec/T-REC-H.264/e">ITU-T H.264 - Advanced video coding for generic audiovisual services</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc6184.txt">IETF RFC 6184 - RTP Payload Format for H.264 Video</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>It Is recommended that dynamic port ranges are constrained to a limited and agreed number. This is an activity that needs
+               to be performed at the mission planning stage. Different vendors have different limitations on fixed ports. However common
+               ground can always be found.As a Minimum G.722.1 is to be used. Others are exceptions and need to be agreed by the MN administrative authority for video
+               calls.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Numbering Plans Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Numbering Plans Profile provides standards and guidance for the facilitation of numbering plans of
+               telecommunications, audio and video networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -1306,10 +1441,20 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are optionally used for numbering
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 5046 Ed 4 - The NATO Military Communications Directory System</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are used for numbering. Network planners and engineers are reminded that
+               in case Canada and United States are both participating in a mission network, there is a necessity to
+               de-conflict the country code a.k.a. Country Identified (CI).
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4705 Ed 1 - International Network Numbering for Communications Systems in use in NATO</a></li>
                <li><a href="https://www.itu.int/rec/T-REC-E.123-200102-I/en">ITU-T E.123 - Notation for national and international telephone numbers, e-mail addresses and web addresses</a></li>
@@ -2294,7 +2439,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Sun, 07 Jun 2020 18:55:12 +0000</div>
+        <div>Last updated on Mon, 08 Jun 2020 13:33:27 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
