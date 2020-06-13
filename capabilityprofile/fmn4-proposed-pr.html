@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202006161151910">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006165092402">
 </head>
 
   <body>
@@ -2284,7 +2284,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Cryptographic Algorithms Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Cryptographic Algorithms Profile specifies the use of public standards for cryptographic algorithm interoperability to
+               protect IT systems.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2302,12 +2306,44 @@
                <li><a href="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Br1.pdf">NIST SP 800-56B Rev 1 - Recommendation for Pair-Wise KeyEstablishment Schemes Using Integer Factorization Cryptography</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The following algorithms and parameters are to be used to support specific functions 
+               <ul>
+                  <li>Root CA Certificates
+                     <ul>
+                        <li>Digest Algorithm  SHA-256, or SHA-384 (Root CA certificates, which were signed using SHA-1 before 1 January 2016, may be used until 1 January
+                           2025)
+                        </li>
+                        <li>RSA modulus size (bits)  3072 and 4096</li>
+                        <li>ECC Curve  NIST P-256, and P-384</li>
+                     </ul>
+                  </li>
+                  <li>Subordinate CA Certificates
+                     <ul>
+                        <li>Digest Algorithm  SHA-256, and SHA-384</li>
+                        <li>RSA modulus size (bits)  2048, 3072 and 4096</li>
+                        <li>ECC Curve  NIST P-256, and P-384</li>
+                     </ul>
+                  </li>
+                  <li>Subscriber Certificates
+                     <ul>
+                        <li>Digest Algorithm  SHA-256, and SHA-384</li>
+                        <li>RSA modulus size (bits)  2048, 3072 and 4096</li>
+                        <li>ECC Curve  NIST P-256, and P-384</li>
+                     </ul>
+                  </li>
+               </ul>
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Digital Certificate Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Digital Certificate Profile provides standards and guidance in support of a Public Key Infrastructure (PKI) on
+               federated mission networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2316,14 +2352,30 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               CRLs may be provided at multiple endpoints. The addresses of these endpoints shall be provided in
+               digital certificates through X.509 certificate extensions such as Authority Information Access (AIA)
+               and CRL distribution point (CDP). Each CA shall provide CRLs over HTTP. Clients must support this
+               protocol.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc5280.txt">IETF RFC 5280 - Internet X.509 Public Key Infrastructure Certificate and CRL Profile</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The Online Certificate Status Protocol (OCSP) capability is optional for PKI Service providers and
+               consumers.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://tools.ietf.org/html/rfc6960">IETF RFC 6960 - X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               CRLs may be provided at multiple endpoints. Each CA may provide CRLs over LDAP.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc4523.txt">IETF RFC 4523 - LDAP: X.509 Certificate Schema</a></li>
             </ul>
@@ -2332,12 +2384,24 @@
                <li><a href="http://www.itu.int/rec/T-REC-X.509/en">ITU-T X.509 - Information technology - Open Systems Interconnection - The Directory: Public-key and attribute certificate frameworks</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The version of the encoded public key certificate shall be version 3. The version of the encoded certificate revocation list
+               (CRL) shall be version 2.Additional Implementation Guidance 
+               <ul>
+                  <li>AC/322-D(2004)0024-REV2-ADD2 - NATO Public Key Infrastructure (NPKI) Certificate Policy</li>
+                  <li>AC/322-D(2010)0036 - NATO Cryptographic Interoperability Strategy</li>
+               </ul>
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Directory Data Exchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Directory Data Exchange Profile provides standards and guidance in support of a mechanism used to connect to,
+               search, and modify Internet directories on the basis of the Lightweight Directory Access Protocol (LDAP).
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2365,7 +2429,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Directory Data Structure Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Directory Data Structure Profile provides standards and guidance in support of the definition of the namespace of a
+               federated mission network on the basis of the Lightweight Directory Access Protocol (LDAP).
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2379,12 +2447,21 @@
                <li><a href="https://www.ietf.org/rfc/rfc4519.txt">IETF RFC 4519 - LDAP: Schema for User Applications</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The Federated Directory Services shall be able to exchange inetOrgPerson object class with mandatory Common Name (cn) and
+               Surname (sn) attributes. Based on the specific MN requirements, the list of exchanged attributes for particular MN might be
+               extended by SMA during MN planning process.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Domain Naming Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Domain Naming Profile provides standards and guidance to support the hierarchical distributed naming system for
+               computers, services, or any resource connected to a federated mission network.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2412,7 +2489,11 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Virtual Appliance Interchange Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Virtual Appliance Interchange Profile defines the standard format for exchanging virtual appliances between
+               different host platforms.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2421,16 +2502,49 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               The following standards are mandated for the exchange of virtual appliances within the Mission
+               Network.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.1.pdf">DMTF DSP0243 1.1 - Open Virtualization Format Specification, v.1.1</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>To ensure optimization of the exchange of virtual appliances, the following guidelines should be observed.
+               <ul>
+                  <li>Minimize the VMs’ HDD footprint to a minimum and use thin provisioning</li>
+                  <li>Unmount any removable devices before exporting to OVF</li>
+                  <li>Delete all snapshots</li>
+                  <li>Shutdown machine</li>
+                  <li>Include a CRC Integrity Check.</li>
+               </ul>The platform should be able to support the following minimalistic set of hardware features 
+               <ul>
+                  <li>vCPU support  min 2 vCPU supported per VM</li>
+                  <li>SCSI disk controller  min 2</li>
+                  <li>Virtual SCSI harddisks and optical disk  min 8</li>
+                  <li>IDE nodes</li>
+                  <li>Virtual IDE disks</li>
+                  <li>Virtual IDE CD-ROMs
+                     <ul>
+                        <li>E1000 (Network Interface)</li>
+                     </ul>
+                  </li>
+                  <li>SVGA displays  min 1</li>
+                  <li>Serial ports  min 1</li>
+               </ul>
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Time Synchronization Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Time Synchronization Profile provides standards and guidance to support the synchronization of clients and servers
+               across a network or a federation of networks and the safeguard of the accurate use of timestamps.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2439,12 +2553,21 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Service providers must synchronize their network segment with a stratum 1 time server directly
+               connected to a stratum 0 device, or over a reliable network path to a stratum 1 time server of another
+               service provider. All other entities in the federation must use the time service of their host service
+               provider.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc5905.txt">IETF RFC 5905 - Network Time Protocol (NTP)</a></li>
                <li><a href="http://www.itu.int/dms_pubrec/itu-r/rec/tf/R-REC-TF.460-6-200202-I!!PDF-E.pdf">ITU-R TF 460-6 - Standard-frequency and time-signal emissions. Annex 1: Coordinated universal time (UTC)</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Stratum 1 devices must implement IPv4 so that they can be used as time servers for IPv4-based Mission Networks.</p>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -2749,7 +2872,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Tue, 09 Jun 2020 15:19:10 +0000</div>
+        <div>Last updated on Sat, 13 Jun 2020 09:24:02 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
