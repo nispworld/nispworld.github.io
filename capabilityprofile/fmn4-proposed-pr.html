@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/styles/main.css?202006166161434">
+  <link rel="stylesheet" href="/assets/styles/main.css?202006167075211">
 </head>
 
   <body>
@@ -2793,7 +2793,12 @@
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Inter-Autonomous Systems IP Communications Security Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Inter-Autonomous Systems IP Communications Security Profile provides standards and guidance for
+               communications security for transporting IP packets between federated mission network interconnections and in general
+               over the whole Mission Network.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2802,23 +2807,43 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               In Missions, where NATO information products are not carried over the mission network, MISSION
+               SECRET (MS) communications infrastructure is protected with technical structures by mutual
+               agreement made during the mission planning phase.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="">C3B AC/322-D(2015)0031 - CIS Security Technical and Implementation Directive on Cryptographic Security and Mechanisms for the Protection of NATO Information
                      within NNN &amp; IO CIS</a></li>
                <li><a href="https://www.nsa.gov/resources/everyone/csfc/capability-packages/#multi-site">NSA  - CSfC Multi-Site Connectivity Capability Package</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               In Missions, where NATO information products are carried over the mission network, the MISSION
+               SECRET (MS) communications infrastructure is protected at minimum with Type-B crypto devices.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="">C3B AC/322-D(2015)0031 - CIS Security Technical and Implementation Directive on Cryptographic Security and Mechanisms for the Protection of NATO Information
                      within NNN &amp; IO CIS</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>In Missions, where the mission network classification is MISSION RESTRICTED (MR) or lower, communication infrastructure is
+               protected at the minimum with technical structures that are within Service Instruction section Security and in Routing Encapsulation
+               Profile.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Inter-Autonomous Systems IP Transport Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Inter-Autonomous Systems IP Transport Profile provides standards and guidance for Edge Transport Services
+               between autonomous systems, using Internet Protocol (IP) over point-to-point Ethernet links on optical fibre.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2827,11 +2852,20 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               If the interconnection point is outside a shelter in a harsh environment, the interconnection shall
+               follow STANAG 4290 or MIL-DTL-83526 connector specifications.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://everyspec.com/MIL-SPECS/MIL-SPECS-MIL-DTL/MIL-DTL-83526D_52049/">MIL-STD DTL 83526 Rev D - Connectors, fiber optic, circular, environmental resistant, hermaphroditic, general specification for</a></li>
                <li><a href="https://nso.nato.int/">NATO STANAG 4290 Ed 2 - Standard for optical connector medium-rate and high-rate military tactical link - AComP-4290 Edition A Vers. 1</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               Standards for IP version 4 (IPv4) over Ethernet.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc826.txt">IETF RFC 826 - Ethernet Address Resolution Protocol</a></li>
             </ul>
@@ -2840,21 +2874,37 @@
                <li><a href="https://www.iso.org/standard/66182.html">ISO/IEC 11801-1 - Information technology -- Generic cabling for customer premises -- Part 1: General requirements</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               Section 3 - Clause 38 - 1000BASE-LX, nominal transmit wavelength 1310nm.
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://ieeexplore.ieee.org/document/8457469">IEEE 802.3 - IEEE Standard for Ethernet</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The use of LC-connectors is required for network interconnections inside shelters (or inside other
+               conditioned infrastructure).
+               
+            </p>
             <ul spacing="compact">
                <li><a href="http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=10389">ITU-T G.652 - Characteristics of a single-mode optical fibre and cable</a></li>
                <li><a href="https://webstore.iec.ch/publication/5827">IEC 61754-20-100 - Interface standard for LC connectors with protective housings related to IEC 61076-3-106</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>Use 1 Gb/s Ethernet over single-mode optical fibre (SMF).</p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Interface Auto-Configuration Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Interface Auto-Configuration Profile provides standards and guidance for support of the Routing Information
+               Protocol (RIPv2 and RIPng) to expand the amount of useful information carried in RIP messages for the exploitation of
+               auto-configurations over NIP-G and PCN-compliant interfaces and to add a measure of control.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2868,12 +2918,21 @@
                <li><a href="https://www.ietf.org/rfc/rfc2080.txt">IETF RFC 2080 - Routing Information Protocol next generation for IPv6 (RIPng)</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>The auto-configuration is a highly recommended feature for the desired flexibility, maintainability and survivability in communications
+               systems configuration. Nevertheless, there is always an option to follow a manual configuration process. This implies that
+               auto-configuration in itself is not mandatory; when applied, the listed standards are mandatory.
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 IP Quality of Service Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The IP Quality of Service Profile provides standards and guidance to establish and control an agreed level of
+               performance for IP services in federated networks.
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2883,6 +2942,10 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               Utilize Quality of Service capabilities of the network (Diffserve, no military precedence on IP).
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc2474.txt">IETF RFC 2474 - Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc4594.txt">IETF RFC 4594 - Configuration Guidelines for DiffServ Service Classes</a></li>
@@ -2893,16 +2956,48 @@
                <li><a href="http://www.itu.int/rec/T-REC-J.241-200504-I/en">ITU-T J.241 - Quality of service ranking and measurement methods for digital video services delivered over broadband IP networks</a></li>
             </ul>
             <p><em>Candidate</em></p>
+            <p>
+               The following normative standards shall apply for IP Quality of Service (QoS).
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://nso.nato.int/">NATO STANAG 4711 Ed 1 - Interoperability Point Quality of Service (IP QoS) - AComP-4711 Edition A</a></li>
             </ul>
          </td>
-         <td></td>
+         <td>
+            <p>For NATO-led Mission Network deployments, the following governing policies apply 
+               <ul>
+                  <li>AC/322(SC/6)WP(2009)0002-REV2 - NC3B Policy on the Federation of Networks and Provision of Communications Services within
+                     the Networking Information Infrastructure
+                  </li>
+                  <li>NATO Policy for Standardization</li>
+               </ul>
+            </p>
+         </td>
       </tr>
       <tr>
          <td colspan="3">
             <p><strong>Proposed FMN Spiral 4 Tactical Interoperability Network Interconnection Serviceprofile</strong></p>
-            <p></p>
+            <p>
+               The Tactical Interoperability Network Interconnection Profile provide the technical details to create a shared
+               interoperability network at the mobile tactical edge. When no common waveform for land tactical radios can be used for
+               a federation, a standard "bridging" solution based on loaned radios can be used to mitigate the interoperability problem.
+               The architectural pattern "asset exchange pattern" to achieve operational interoperability. Such a asset exchange
+               pattern would aim for "Interchangeability" of assets from different Mission Network (MN) participants. Interchangeability,
+               is the ability of one product, process or service to be used in place of another to fulfil the same requirements.
+               Mobile Tactical Edge information exchange for FMN Spiral 4 is limited to “FMN Spiral 4 Service Instruction for Mobile
+               Tactical Edge Land C2 Information Exchange”, which is basically data exchange based on STANAG 4677. This data
+               exchange service relies for Spiral 4 on a shared interoperability network based on the loaned radio concept, described in
+               this document.
+               The information exchanged over the interface between Tactical CIS and the Radio shall be protected with similar
+               mechanism that required to protect NATO RESTRICTED information or equivalent national classification level. The
+               protection of information at the lower tactical level has a number of distinctive characteristics:
+               information is often transient and perishable – it is only relevant for a short period of timetransmission of information
+               is confined to a small geographic area.information is held on portable devices which are often close to physical threatsnetworks
+               at the lower tactical are often isolated from the wider network.
+               
+               
+            </p>
          </td>
       </tr>
       <tr>
@@ -2912,6 +3007,10 @@
          </td>
          <td>
             <p><em>Candidate</em></p>
+            <p>
+               It is recommend the implement the following standards in addition to RFC 1112:
+               
+            </p>
             <ul spacing="compact">
                <li><a href="https://www.ietf.org/rfc/rfc2236.txt">IETF RFC 2236 - Internet Group Management Protocol, Version 2</a></li>
                <li><a href="https://www.ietf.org/rfc/rfc3376.txt">IETF RFC 3376 - Internet Group Management Protocol, Version 3</a></li>
@@ -2937,7 +3036,7 @@
 </main>
 
       <div class="footer">
-        <div>Last updated on Sun, 14 Jun 2020 16:14:34 +0000</div>
+        <div>Last updated on Mon, 15 Jun 2020 07:52:11 +0000</div>
         <div>This page is work in progress</div>
       </div>
     </div>
