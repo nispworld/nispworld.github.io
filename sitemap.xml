@@ -432,6 +432,8 @@
   </url><url>
     <loc>/responsibleparty/ncia-ivv.html</loc>
   </url><url>
+    <loc>/responsibleparty/ncia-jisr-geo.html</loc>
+  </url><url>
     <loc>/responsibleparty/ncia-jisr.html</loc>
   </url><url>
     <loc>/responsibleparty/ncia-nsii.html</loc>
@@ -2502,6 +2504,8 @@
   </url><url>
     <loc>/standard/ogc-06-050r3.html</loc>
   </url><url>
+    <loc>/standard/ogc-06-121r3.html</loc>
+  </url><url>
     <loc>/standard/ogc-06-121r9.html</loc>
   </url><url>
     <loc>/standard/ogc-07-057r7.html</loc>
@@ -2509,6 +2513,8 @@
     <loc>/standard/ogc-07-147r2.html</loc>
   </url><url>
     <loc>/standard/ogc-08-085r8.html</loc>
+  </url><url>
+    <loc>/standard/ogc-08-091r6.html</loc>
   </url><url>
     <loc>/standard/ogc-09-025r2.html</loc>
   </url><url>
@@ -3812,6 +3818,8 @@
   </url><url>
     <loc>/serviceprofile/archive-archive-geospatial.html</loc>
   </url><url>
+    <loc>/serviceprofile/sip-geo-gps-geospatial-and-geo-processing.html</loc>
+  </url><url>
     <loc>/serviceprofile/sip-geo-mrs-geospatial-and-map-rendering.html</loc>
   </url><url>
     <loc>/node/T-c62c8dfd-357b-4315-8513-9d1a4bbba70c-X.html</loc>
@@ -4860,6 +4868,8 @@
   </url><url>
     <loc>/profilespec/profspec-sip-epds.html</loc>
   </url><url>
+    <loc>/profilespec/profspec-sip-geo-gps.html</loc>
+  </url><url>
     <loc>/profilespec/profspec-sip-geo-mrs.html</loc>
   </url><url>
     <loc>/profilespec/profspec-sip-msg.html</loc>
@@ -4925,6 +4935,8 @@
     <loc>/capabilityprofile/sip-mesg-col-serv.html</loc>
   </url><url>
     <loc>/capabilityprofile/sip-entr-dir.html</loc>
+  </url><url>
+    <loc>/capabilityprofile/sip-geo-gps.html</loc>
   </url><url>
     <loc>/capabilityprofile/sip-geo-mrs.html</loc>
   </url><url>

@@ -1871,6 +1871,15 @@
     
     <item>
       <title></title>
+      <link>/responsibleparty/ncia-jisr-geo.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/responsibleparty/ncia-jisr-geo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/responsibleparty/ncia-jisr.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -11177,6 +11186,15 @@
     
     <item>
       <title></title>
+      <link>/standard/ogc-06-121r3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/ogc-06-121r3.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/standard/ogc-06-121r9.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -11208,6 +11226,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/standard/ogc-08-085r8.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/standard/ogc-08-091r6.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/ogc-08-091r6.html</guid>
       <description></description>
     </item>
     
@@ -17071,6 +17098,15 @@
     </item>
     
     <item>
+      <title>Geospatial and Geoprocessing</title>
+      <link>/serviceprofile/sip-geo-gps-geospatial-and-geo-processing.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/serviceprofile/sip-geo-gps-geospatial-and-geo-processing.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Geospatial and Map Rendering</title>
       <link>/serviceprofile/sip-geo-mrs-geospatial-and-map-rendering.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -21787,6 +21823,15 @@
     </item>
     
     <item>
+      <title>Service Interface Profile for Geospatial Services - Geoprocessing Service</title>
+      <link>/profilespec/profspec-sip-geo-gps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profilespec/profspec-sip-geo-gps.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Service Interface Profile for Geospatial Services - Map Rendering Service</title>
       <link>/profilespec/profspec-sip-geo-mrs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -22071,6 +22116,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/capabilityprofile/sip-entr-dir.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIP for Geospatial Services - Geoprocessing Services</title>
+      <link>/capabilityprofile/sip-geo-gps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/capabilityprofile/sip-geo-gps.html</guid>
       <description></description>
     </item>
     

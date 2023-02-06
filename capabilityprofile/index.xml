@@ -232,6 +232,15 @@
     </item>
     
     <item>
+      <title>SIP for Geospatial Services - Geoprocessing Services</title>
+      <link>/capabilityprofile/sip-geo-gps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/capabilityprofile/sip-geo-gps.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SIP for Geospatial Services - Map Rendering Service</title>
       <link>/capabilityprofile/sip-geo-mrs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
