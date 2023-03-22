@@ -10160,24 +10160,6 @@
     
     <item>
       <title></title>
-      <link>/standard/us-dod-oth-g.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/standard/us-dod-oth-g.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/standard/us-dod-oth-t-g-2007.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/standard/us-dod-oth-t-g-2007.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/standard/us-dod-vva-rpg.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -10191,6 +10173,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/standard/us-dod-vva-template.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/standard/us-don-oth-t-g-2000.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/us-don-oth-t-g-2000.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/standard/us-don-oth-t-g-2007.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/us-don-oth-t-g-2007.html</guid>
       <description></description>
     </item>
     

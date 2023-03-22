@@ -326,6 +326,8 @@
   </url><url>
     <loc>/organization/us-dod.html</loc>
   </url><url>
+    <loc>/organization/us-don.html</loc>
+  </url><url>
     <loc>/organization/vmware.html</loc>
   </url><url>
     <loc>/organization/w3c.html</loc>
@@ -2708,13 +2710,13 @@
   </url><url>
     <loc>/standard/us-dod-mil-std6017d.html</loc>
   </url><url>
-    <loc>/standard/us-dod-oth-g.html</loc>
-  </url><url>
-    <loc>/standard/us-dod-oth-t-g-2007.html</loc>
-  </url><url>
     <loc>/standard/us-dod-vva-rpg.html</loc>
   </url><url>
     <loc>/standard/us-dod-vva-template.html</loc>
+  </url><url>
+    <loc>/standard/us-don-oth-t-g-2000.html</loc>
+  </url><url>
+    <loc>/standard/us-don-oth-t-g-2007.html</loc>
   </url><url>
     <loc>/standard/vmware-vdk50.html</loc>
   </url><url>
