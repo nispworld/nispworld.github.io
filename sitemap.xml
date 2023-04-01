@@ -1790,7 +1790,7 @@
   </url><url>
     <loc>/standard/mip-mim51.html</loc>
   </url><url>
-    <loc>/standard/mip-v4.3.html</loc>
+    <loc>/standard/mip4-ies-v4.3.1.html</loc>
   </url><url>
     <loc>/standard/nato-aaitp-09-ed.a-v1.html</loc>
   </url><url>
@@ -2261,6 +2261,8 @@
     <loc>/standard/nato-stanag4294ed2-part2.html</loc>
   </url><url>
     <loc>/standard/nato-stanag4294ed3-part1.html</loc>
+  </url><url>
+    <loc>/standard/nato-stanag4294ed3-part2.html</loc>
   </url><url>
     <loc>/standard/nato-stanag4312ed1.html</loc>
   </url><url>
@@ -4299,6 +4301,8 @@
     <loc>/serviceprofile/bsp-Architecture_Management_Application.html</loc>
   </url><url>
     <loc>/serviceprofile/bsp-Audio-based_Communication_Services.html</loc>
+  </url><url>
+    <loc>/serviceprofile/bsp-Battlespace_Object_Services.html</loc>
   </url><url>
     <loc>/serviceprofile/bsp-Business_Support_CIS_Security_Services.html</loc>
   </url><url>

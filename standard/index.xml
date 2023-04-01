@@ -6020,10 +6020,10 @@
     
     <item>
       <title></title>
-      <link>/standard/mip-v4.3.html</link>
+      <link>/standard/mip4-ies-v4.3.1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/standard/mip-v4.3.html</guid>
+      <guid>/standard/mip4-ies-v4.3.1.html</guid>
       <description></description>
     </item>
     
@@ -8139,6 +8139,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/standard/nato-stanag4294ed3-part1.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/standard/nato-stanag4294ed3-part2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/nato-stanag4294ed3-part2.html</guid>
       <description></description>
     </item>
     
