@@ -220,7 +220,7 @@
   </url><url>
     <loc>/organization/compuserve.html</loc>
   </url><url>
-    <loc>/organization/digwg.html</loc>
+    <loc>/organization/dgiwg.html</loc>
   </url><url>
     <loc>/organization/dmg.html</loc>
   </url><url>
@@ -272,8 +272,6 @@
   </url><url>
     <loc>/organization/microsoft.html</loc>
   </url><url>
-    <loc>/organization/mil.html</loc>
-  </url><url>
     <loc>/organization/mip.html</loc>
   </url><url>
     <loc>/organization/nato-e.html</loc>
@@ -319,8 +317,6 @@
     <loc>/organization/tm-forum.html</loc>
   </url><url>
     <loc>/organization/tma.html</loc>
-  </url><url>
-    <loc>/organization/us-doc.html</loc>
   </url><url>
     <loc>/organization/us-dod.html</loc>
   </url><url>
@@ -638,11 +634,11 @@
   </url><url>
     <loc>/standard/ieee-802.20.html</loc>
   </url><url>
-    <loc>/standard/ieee-802.3-2013.html</loc>
-  </url><url>
-    <loc>/standard/ieee-802.3-2018.html</loc>
+    <loc>/standard/ieee-802.3-2012.html</loc>
   </url><url>
     <loc>/standard/ieee-802.3ab.html</loc>
+  </url><url>
+    <loc>/standard/ieee-803.3-2018.html</loc>
   </url><url>
     <loc>/standard/ieee-p1278-1a.html</loc>
   </url><url>

@@ -845,19 +845,10 @@
     
     <item>
       <title></title>
-      <link>/standard/ieee-802.3-2013.html</link>
+      <link>/standard/ieee-802.3-2012.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/standard/ieee-802.3-2013.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/standard/ieee-802.3-2018.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/standard/ieee-802.3-2018.html</guid>
+      <guid>/standard/ieee-802.3-2012.html</guid>
       <description></description>
     </item>
     
@@ -867,6 +858,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/standard/ieee-802.3ab.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/standard/ieee-803.3-2018.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/ieee-803.3-2018.html</guid>
       <description></description>
     </item>
     
