@@ -2060,6 +2060,15 @@
     
     <item>
       <title></title>
+      <link>/standard/c3b-npki-certp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/c3b-npki-certp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/standard/cceb-acp100f.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -9804,15 +9813,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/standard/nato-nnstd-misp-2019.1.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/standard/nato-npki-certp.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/standard/nato-npki-certp.html</guid>
       <description></description>
     </item>
     
