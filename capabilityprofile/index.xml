@@ -5,330 +5,259 @@
     <link>/capabilityprofile/</link>
     <description>Recent content on NISP Nation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="/capabilityprofile/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <atom:link href="/capabilityprofile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture profile</title>
       <link>/capabilityprofile/architecture.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/architecture.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Common XML Artefacts 2.0</title>
       <link>/capabilityprofile/binding-common-xml.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-common-xml.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cryptographic Artefact Binding Profiles 2.0</title>
       <link>/capabilityprofile/binding-crypto-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-crypto-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Extensible Message and Presence Protocol (XMPP) Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-xmpp-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-xmpp-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Extensible Metadata Platform (XMP) Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-extensible-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-extensible-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 3 - Standards Profile</title>
       <link>/capabilityprofile/fmn3.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/fmn3.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 4 Standards Profile</title>
       <link>/capabilityprofile/fmn4-20211022.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/fmn4-20211022.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 5 Standards Profile</title>
       <link>/capabilityprofile/fmn5-20221202.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/fmn5-20221202.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Generic Open Packaging Convention (OPC) Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-generic-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-generic-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NISP Basic Standards profile</title>
       <link>/capabilityprofile/bsp.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/bsp.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Office Open XML (OOXML) Formats Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-ooxml-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-ooxml-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Profile for the Long Term Preservation of NATO Digital Information of Permanent value</title>
       <link>/capabilityprofile/archive-archive.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/archive-archive.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Representational State Transfer (REST) Profile 2.0</title>
       <link>/capabilityprofile/binding-rest-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-rest-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for a Publish-Subscribe Notification Broker with Subscription Manager</title>
       <link>/capabilityprofile/sip-pubsub-notif-brooker.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-pubsub-notif-brooker.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for a Publish-Subscribe Notification Consumer</title>
       <link>/capabilityprofile/sip-pubsub-notif-consumer.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-pubsub-notif-consumer.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Recognized Air Picture Data</title>
       <link>/capabilityprofile/sip-recognized-air-picture-data.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-recognized-air-picture-data.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Transport Layer Security</title>
       <link>/capabilityprofile/sip-for-tls.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-for-tls.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Web Applications</title>
       <link>/capabilityprofile/sip-for-web-apps.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-for-web-apps.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sidecar Files Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-sidecar-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-sidecar-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simple Mail Transfer Protocol (SMTP) Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-smtp-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-smtp-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Simple Object Access Protocol (SOAP) Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-soap.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-soap.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for a Notification Cache Service</title>
       <link>/capabilityprofile/sip-notif-cache.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-notif-cache.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Basic Collaboration Services</title>
       <link>/capabilityprofile/sip-bcs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-bcs.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Core and Advanced Instant Messaging Collaboration Services</title>
       <link>/capabilityprofile/sip-mesg-col-serv.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-mesg-col-serv.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Enterprise Directory Services</title>
       <link>/capabilityprofile/sip-entr-dir.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-entr-dir.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Geospatial Services - Geoprocessing Services</title>
       <link>/capabilityprofile/sip-geo-gps.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-geo-gps.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Geospatial Services - Map Rendering Service</title>
       <link>/capabilityprofile/sip-geo-mrs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-geo-mrs.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Messaging</title>
       <link>/capabilityprofile/sip-mesg.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-mesg.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Policy Enforcement Points</title>
       <link>/capabilityprofile/sip-policy-enforce.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-policy-enforce.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Publish-Subscribe Services</title>
       <link>/capabilityprofile/sip-pubsub.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-pubsub.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for REST Messaging</title>
       <link>/capabilityprofile/sip-rest-msg.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-rest-msg.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for REST Security Services</title>
       <link>/capabilityprofile/sip-rest.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-rest.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Security Services</title>
       <link>/capabilityprofile/sip-sec.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-sec.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Security Token Services</title>
       <link>/capabilityprofile/sip-token.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-token.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIP for Service Management and Control</title>
       <link>/capabilityprofile/sip-for-smc.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/sip-for-smc.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web Service Messaging Profile Binding Profile 2.0</title>
       <link>/capabilityprofile/binding-wsmp-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/capabilityprofile/binding-wsmp-v2.html</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

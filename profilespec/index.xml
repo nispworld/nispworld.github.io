@@ -5,267 +5,210 @@
     <link>/profilespec/</link>
     <description>Recent content on NISP Nation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="/profilespec/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <atom:link href="/profilespec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture Profile</title>
       <link>/profilespec/profspec-architecture.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-architecture.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Directive on the Preservation of NATO Digital Information of Permanent Value</title>
       <link>/profilespec/profspec-archive.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-archive.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Federated Mission Networking Spiral 1.1 Standards Profile</title>
       <link>/profilespec/profspec-fmn1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn1.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 2 Standards Profile</title>
       <link>/profilespec/profspec-fmn2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 3 Standards Profile</title>
       <link>/profilespec/profspec-fmn3.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn3.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 4 Overview of Standards and Profiles</title>
       <link>/profilespec/profspec-fmn4-20210208.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn4-20210208.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FMN Spiral 4 Specification</title>
       <link>/profilespec/fmn4-baseline100108.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/fmn4-baseline100108.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NATO Interoperability Standards and Profiles (NISP)</title>
       <link>/profilespec/profspec-bsp.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-bsp.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Profiles for Binding Metadata to a Data Object</title>
       <link>/profilespec/profspec-metadata-dataobject.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-metadata-dataobject.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Profiles for Binding Metadata to a Data Object v2</title>
       <link>/profilespec/profspec-metadata-dataobject-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-metadata-dataobject-v2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proposed FMN Spiral 2 Profile</title>
       <link>/profilespec/profspec-fmn2-proposed.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn2-proposed.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proposed FMN Spiral 4 Specification - Spiral 4 Standards Profile</title>
       <link>/profilespec/profspec-fmn4-proposed.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn4-proposed.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proposed FMN Spiral 5 Specification</title>
       <link>/profilespec/profspec-fmn5-20211020.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn5-20211020.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Proposed FMN Spiral 5 Specification</title>
       <link>/profilespec/profspec-fmn5-20221202.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-fmn5-20221202.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for a Notification Cache Service</title>
       <link>/profilespec/profspec-sip-not-cache.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-not-cache.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for a Publishsubscribe Notification Broker with Subscription Manager</title>
       <link>/profilespec/profspec-sip-pubsub-not-broker.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-pubsub-not-broker.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for a PublishSubscribe Notification Consumer</title>
       <link>/profilespec/profspec-sip-pubsub-not-consumer.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-pubsub-not-consumer.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Basic Collaboration Services</title>
       <link>/profilespec/profspec-sip-basic-collab.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-basic-collab.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Core and Advanced Instant Messaging Collaboration Services</title>
       <link>/profilespec/profspec-sip-im-collab.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-im-collab.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Enterprise Directory Services</title>
       <link>/profilespec/profspec-sip-epds.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-epds.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Geospatial Services - Geoprocessing Service</title>
       <link>/profilespec/profspec-sip-geo-gps.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-geo-gps.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Geospatial Services - Map Rendering Service</title>
       <link>/profilespec/profspec-sip-geo-mrs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-geo-mrs.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Messaging</title>
       <link>/profilespec/profspec-sip-msg.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-msg.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Policy Enforcement Points</title>
       <link>/profilespec/prospec-sip-pep.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/prospec-sip-pep.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Publish-Subscribe Services</title>
       <link>/profilespec/profspec-sip-pubsub.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-pubsub.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Rest Messaging</title>
       <link>/profilespec/profspec-sip-rest-msg.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-rest-msg.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Rest Security Services</title>
       <link>/profilespec/profspec-sip-rest-sec.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-rest-sec.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Security Services</title>
       <link>/profilespec/profspec-sip-sec.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-sec.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Service Interface Profile for Security Token Services</title>
       <link>/profilespec/profspec-sip-sec-token.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/profilespec/profspec-sip-sec-token.html</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
