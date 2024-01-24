@@ -79,6 +79,13 @@
     </item>
     <item>
       <title></title>
+      <link>/coverdoc/nato-stanag2433ed4.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/coverdoc/nato-stanag2433ed4.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/coverdoc/nato-stanag2546ed2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/coverdoc/nato-stanag2546ed2.html</guid>
@@ -1808,6 +1815,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/dgiwg-126.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/dgiwg-126.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/dgiwg-250.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/dgiwg-250.html</guid>
@@ -2035,6 +2049,41 @@
       <link>/standard/fmn-cpwg-sip-bdg-mtd-xmpp-stanzas.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/fmn-cpwg-sip-bdg-mtd-xmpp-stanzas.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-lrc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-lrc.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-nmcd-ie.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-nmcd-ie.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-rapd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-rapd.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-smc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-smc.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-wms-wmts.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-wms-wmts.html</guid>
       <description></description>
     </item>
     <item>
@@ -2280,6 +2329,13 @@
       <link>/standard/ietf-rfc1213.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc1213.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc1321.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc1321.html</guid>
       <description></description>
     </item>
     <item>
@@ -3085,6 +3141,13 @@
       <link>/standard/ietf-rfc4193.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc4193.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc4248.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc4248.html</guid>
       <description></description>
     </item>
     <item>
@@ -4090,6 +4153,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/ietf-rfc7766.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc7766.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/ietf-rfc7800.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc7800.html</guid>
@@ -4128,6 +4198,20 @@
       <link>/standard/ietf-rfc8040.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc8040.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc8098.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc8098.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc8130.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc8130.html</guid>
       <description></description>
     </item>
     <item>
@@ -4251,6 +4335,27 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/ietf-rfc9110.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9110.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9111.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9111.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9112.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9112.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/ietf-rfc919.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc919.html</guid>
@@ -4261,6 +4366,20 @@
       <link>/standard/ietf-rfc922.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc922.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9239.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9239.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9325.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9325.html</guid>
       <description></description>
     </item>
     <item>
@@ -6190,6 +6309,20 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/mip-mip4-ies-v4.4.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/mip-mip4-ies-v4.4.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/mip-mip4-ies.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/mip-mip4-ies.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/mip4-ies-v4.3.1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/mip4-ies-v4.3.1.html</guid>
@@ -6610,6 +6743,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-adatp-36-ed.b-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-adatp-36-ed.b-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-adatp-37-ed.a-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-adatp-37-ed.a-v1.html</guid>
@@ -6750,6 +6890,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-ed.a-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-ed.a-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol1-ed.a-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol1-ed.a-v1.html</guid>
@@ -6764,9 +6911,23 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol1-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol1-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol2-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol2-ed.a-v2.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aep-76-vol2-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol2-ed.a-v3.html</guid>
       <description></description>
     </item>
     <item>
@@ -6778,6 +6939,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol3-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol3-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol4-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol4-ed.a-v2.html</guid>
@@ -6785,9 +6953,23 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol4-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol4-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol5-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol5-ed.a-v2.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aep-76-vol5-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol5-ed.a-v3.html</guid>
       <description></description>
     </item>
     <item>
@@ -6907,6 +7089,13 @@
       <link>/standard/nato-aidpp-01-ed.A-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aidpp-01-ed.A-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aintp-03-ed.c-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aintp-03-ed.c-v1.html</guid>
       <description></description>
     </item>
     <item>
@@ -7439,6 +7628,13 @@
       <link>/standard/nato-atp-97-ed.b-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-atp-97-ed.b-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-essor-hdrwf-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-essor-hdrwf-v1.html</guid>
       <description></description>
     </item>
     <item>
@@ -8762,6 +8958,13 @@
       <link>/standard/ogc-12-128r17.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ogc-12-128r17.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ogc-12-128r18.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ogc-12-128r18.html</guid>
       <description></description>
     </item>
     <item>
@@ -10326,6 +10529,13 @@
       <description></description>
     </item>
     <item>
+      <title>ADatP-36/JDSSDM Mediation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-162.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-162.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ADatP-36/JDSSDM Mediation Profile.</title>
       <link>/serviceprofile/fmn5-20221202-prf-162.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10508,6 +10718,13 @@
       <description></description>
     </item>
     <item>
+      <title>Anycast DNS Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-123.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-123.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Application Sharing Services</title>
       <link>/node/T-eac52524-151f-414a-913c-6120561eaf55-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10662,6 +10879,13 @@
       <description></description>
     </item>
     <item>
+      <title>Audio-based Collaboration Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-1.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Audio-based Collaboration Standards Profiles</title>
       <link>/profile/fmn4-20211022-prf-114.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10673,6 +10897,13 @@
       <link>/profile/fmn5-20221202-prf-114.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-114.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio-based Collaboration Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-114.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-114.html</guid>
       <description></description>
     </item>
     <item>
@@ -10781,6 +11012,13 @@
       <description></description>
     </item>
     <item>
+      <title>Brokered Notification Publish Subscribe Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-170.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-170.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Browser Application</title>
       <link>/node/T-cef94bbc-8278-4066-b01f-403318515fa3-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10858,6 +11096,13 @@
       <description></description>
     </item>
     <item>
+      <title>Business Support Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-18.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-18.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>C3 Taxonomy</title>
       <link>/node/T-a0d92ce5-6739-407c-82db-6ed315aa3651-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10893,6 +11138,13 @@
       <description></description>
     </item>
     <item>
+      <title>Calendaring and Scheduling Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-111.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-111.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Calendaring Exchange Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-5.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10907,6 +11159,13 @@
       <description></description>
     </item>
     <item>
+      <title>Calendaring Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-5.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-5.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Call Management Services</title>
       <link>/node/T-a3e1d1f2-6b07-4c7e-876c-900fbffdcc4b-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10918,6 +11177,13 @@
       <link>/profile/fmn5-20221202-prf-22.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-22.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Call Media Encoding Profile</title>
+      <link>/profile/fmn5-20231123-prf-22.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-22.html</guid>
       <description></description>
     </item>
     <item>
@@ -10977,6 +11243,13 @@
       <description></description>
     </item>
     <item>
+      <title>Certificates Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-6.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-6.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Change Management Services</title>
       <link>/node/T-954f0d5b-9f64-4aff-a890-d9b37a2f0cb4-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -10995,6 +11268,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-7.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-7.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Character Encoding Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-7.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-7.html</guid>
       <description></description>
     </item>
     <item>
@@ -11103,6 +11383,13 @@
       <description></description>
     </item>
     <item>
+      <title>CIS Support Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-33.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-33.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>COI-Enabling Services</title>
       <link>/node/T-d46e44a9-17df-4751-9d70-a42676e18dd3-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11124,6 +11411,13 @@
       <description></description>
     </item>
     <item>
+      <title>COI-Enabling Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-20.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-20.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>COI-Specific Services</title>
       <link>/node/T-e565830a-b27d-4e40-b1c0-124a16d110a4-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11142,6 +11436,13 @@
       <link>/profile/fmn5-20221202-prf-21.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-21.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COI-Specific Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-21.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-21.html</guid>
       <description></description>
     </item>
     <item>
@@ -11170,6 +11471,13 @@
       <link>/profile/fmn5-20221202-prf-23.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-23.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Command and Control Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-23.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-23.html</guid>
       <description></description>
     </item>
     <item>
@@ -11236,6 +11544,13 @@
       <description></description>
     </item>
     <item>
+      <title>Communication and Collaboration Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-37.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-37.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Communications Access CIS Security Services</title>
       <link>/node/T-a93d56aa-59a7-4816-b2d0-666b9a199424-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11271,6 +11586,13 @@
       <description></description>
     </item>
     <item>
+      <title>Communications Access Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-24.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-24.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Communications Equipment</title>
       <link>/node/T-082a896b-1817-4cd7-9120-c544d42a02ce-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11299,6 +11621,13 @@
       <description></description>
     </item>
     <item>
+      <title>Communications Transmission Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-145.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-145.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Communications Transport Standards Profiles</title>
       <link>/profile/fmn4-20211022-prf-25.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11310,6 +11639,13 @@
       <link>/profile/fmn5-20221202-prf-25.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-25.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communications Transport Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-25.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-25.html</guid>
       <description></description>
     </item>
     <item>
@@ -11432,6 +11768,13 @@
       <description></description>
     </item>
     <item>
+      <title>Content Encapsulation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-9.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-9.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Content Management Services</title>
       <link>/node/T-6fe5364b-2627-4501-9477-c7e9932e618d-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11516,6 +11859,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cross Community Information Sharing Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-126.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-126.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cryptographic Algorithms Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-10.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11527,6 +11877,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-10.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-10.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptographic Algorithms Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-10.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-10.html</guid>
       <description></description>
     </item>
     <item>
@@ -11684,6 +12041,13 @@
       <description></description>
     </item>
     <item>
+      <title>Database Platform Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-108.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-108.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Database Services</title>
       <link>/node/T-0b645981-167c-4c40-9358-e77101de0a8b-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11838,6 +12202,13 @@
       <description></description>
     </item>
     <item>
+      <title>Digital Certificate Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-12.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-12.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Digital Certificate Services</title>
       <link>/node/T-13a17bdd-8eb2-418c-8cb8-7f32a435f432-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11852,10 +12223,24 @@
       <description></description>
     </item>
     <item>
+      <title>Digital Certificate Validation (CRL) Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-168.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-168.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Digital Certificate Validation (OCSP) Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-167.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-167.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Certificate Validation (OCSP) Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-167.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-167.html</guid>
       <description></description>
     </item>
     <item>
@@ -11870,6 +12255,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-153.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-153.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Interoperability Between UHF Satellite Communications Terminals - Integrated Waveform (IWF) Phase 1 edition 1</title>
+      <link>/serviceprofile/fmn5-20231123-prf-153.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-153.html</guid>
       <description></description>
     </item>
     <item>
@@ -11891,6 +12283,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-169.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-169.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Direct Notification Publish Subscribe Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-169.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-169.html</guid>
       <description></description>
     </item>
     <item>
@@ -11929,6 +12328,13 @@
       <description></description>
     </item>
     <item>
+      <title>Directory Data Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-13.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-13.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Directory Data Structure Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-14.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -11940,6 +12346,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-14.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-14.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Directory Data Structure Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-14.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-14.html</guid>
       <description></description>
     </item>
     <item>
@@ -12010,6 +12423,13 @@
       <link>/profile/fmn5-20221202-prf-17.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-17.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Domain Naming Profile</title>
+      <link>/profile/fmn5-20231123-prf-17.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-17.html</guid>
       <description></description>
     </item>
     <item>
@@ -12370,6 +12790,13 @@
       <description></description>
     </item>
     <item>
+      <title>Federated Fires profiles</title>
+      <link>/profile/fmn5-20231123-prf-194.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-194.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Federated Mission Networking Spiral 1.1 Standards Profile</title>
       <link>/profilespec/profspec-fmn1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -12384,6 +12811,13 @@
       <description></description>
     </item>
     <item>
+      <title>Federation Time Synchronization Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-121.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-121.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>File Format Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-39.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -12395,6 +12829,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-39.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-39.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>File Format Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-39.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-39.html</guid>
       <description></description>
     </item>
     <item>
@@ -13063,10 +13504,24 @@
       <description></description>
     </item>
     <item>
+      <title>FMN Spiral 5 Specification</title>
+      <link>/profilespec/profspec-fmn5-baseline100136.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profilespec/profspec-fmn5-baseline100136.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>FMN Spiral 5 Standards Profile</title>
       <link>/capabilityprofile/fmn5-20221202.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/capabilityprofile/fmn5-20221202.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FMN Spiral 5 Standards Profile</title>
+      <link>/capabilityprofile/fmn5-20231123.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/capabilityprofile/fmn5-20231123.html</guid>
       <description></description>
     </item>
     <item>
@@ -13119,6 +13574,13 @@
       <description></description>
     </item>
     <item>
+      <title>Formal Messaging Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-40.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-40.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Formatted Messages for Air Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-199.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13126,10 +13588,24 @@
       <description></description>
     </item>
     <item>
+      <title>Formatted Messages for Air Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-199.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-199.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Formatted Messages for Maritime Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-198.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-198.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formatted Messages for Maritime Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-198.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-198.html</guid>
       <description></description>
     </item>
     <item>
@@ -13196,6 +13672,13 @@
       <description></description>
     </item>
     <item>
+      <title>Friendly Force Tracking Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-45.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-45.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Function-specific Operations</title>
       <link>/node/T-b387618b-b255-494f-97d8-6d5f5e5b029a-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13221,6 +13704,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-124.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-124.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generic Domain Naming Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-124.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-124.html</guid>
       <description></description>
     </item>
     <item>
@@ -13256,6 +13746,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-166.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-166.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GeoPackage Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-166.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-166.html</guid>
       <description></description>
     </item>
     <item>
@@ -13315,6 +13812,20 @@
       <description></description>
     </item>
     <item>
+      <title>Geospatial Data Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-46.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-46.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geospatial Metadata Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-206.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-206.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Geospatial Network Analysis Services</title>
       <link>/node/T-c7733be9-63c2-4ed4-bea7-a272d614c5f5-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13340,6 +13851,13 @@
       <link>/profile/fmn5-20221202-prf-26.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-26.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geospatial Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-26.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-26.html</guid>
       <description></description>
     </item>
     <item>
@@ -13375,6 +13893,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-47.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-47.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geospatial Web Feeds Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-47.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-47.html</guid>
       <description></description>
     </item>
     <item>
@@ -13420,6 +13945,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ground-to-Air Information Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-48.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-48.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ground-to-Air Situational Awareness Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-49.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13431,6 +13963,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-49.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-49.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ground-to-Air Situational Awareness Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-49.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-49.html</guid>
       <description></description>
     </item>
     <item>
@@ -13539,6 +14078,13 @@
       <description></description>
     </item>
     <item>
+      <title>Informal Messaging Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-56.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-56.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Informal Messaging Services</title>
       <link>/node/T-e683e3a2-ef50-4da3-b286-2ecf23e21aae-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13564,6 +14110,13 @@
       <link>/profile/fmn5-20221202-prf-110.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-110.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Informal Messaging Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-110.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-110.html</guid>
       <description></description>
     </item>
     <item>
@@ -13662,6 +14215,13 @@
       <link>/profile/fmn5-20221202-prf-27.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-27.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Management Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-27.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-27.html</guid>
       <description></description>
     </item>
     <item>
@@ -13777,6 +14337,13 @@
       <description></description>
     </item>
     <item>
+      <title>Infrastructure Networking Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-106.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-106.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Infrastructure Processing Services</title>
       <link>/node/T-ecae370f-6af0-40de-9629-3b468757e5db-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13798,6 +14365,13 @@
       <description></description>
     </item>
     <item>
+      <title>Infrastructure Processing Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-107.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-107.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Infrastructure Provisioning Services</title>
       <link>/node/T-56a3866e-cb4a-4ce1-996e-d4e72a524d0c-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13816,6 +14390,13 @@
       <link>/profile/fmn5-20221202-prf-105.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-105.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure Security Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-105.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-105.html</guid>
       <description></description>
     </item>
     <item>
@@ -13844,6 +14425,13 @@
       <link>/profile/fmn5-20221202-prf-28.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-28.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-28.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-28.html</guid>
       <description></description>
     </item>
     <item>
@@ -13903,6 +14491,20 @@
       <description></description>
     </item>
     <item>
+      <title>Intelligence and ISR Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-29.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-29.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intelligence BsO Synchronization</title>
+      <link>/serviceprofile/fmn5-20231123-prf-209.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-209.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Intelligence Processes</title>
       <link>/node/T-c0d09719-d0f0-4730-9cc6-2b46830403ba-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13938,6 +14540,13 @@
       <description></description>
     </item>
     <item>
+      <title>Inter-Autonomous Systems IP Communications Security Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-58.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-58.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Inter-Autonomous Systems IP Transport Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-59.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -13949,6 +14558,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-59.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-59.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inter-Autonomous Systems IP Transport Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-59.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-59.html</guid>
       <description></description>
     </item>
     <item>
@@ -13966,10 +14582,24 @@
       <description></description>
     </item>
     <item>
+      <title>Inter-Autonomous Systems Multicast Signaling Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-60.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-60.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Inter-Autonomous Systems Multicast Source Discovery Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-131.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-131.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inter-Autonomous Systems Multicast Source Discovery Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-131.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-131.html</guid>
       <description></description>
     </item>
     <item>
@@ -13984,6 +14614,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-61.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-61.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inter-Autonomous Systems Routing Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-61.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-61.html</guid>
       <description></description>
     </item>
     <item>
@@ -14015,6 +14652,13 @@
       <description></description>
     </item>
     <item>
+      <title>Interface Auto-Configuration Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-62.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-62.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Internal Coordination</title>
       <link>/node/T-c43a906e-4348-4efd-b25e-028427251bf5-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14036,6 +14680,13 @@
       <description></description>
     </item>
     <item>
+      <title>Internationalization Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-63.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-63.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Intrusion Detection Services</title>
       <link>/node/T-1bb7cf3b-e8e0-4b9c-a9f6-5b8670d77b3e-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14050,10 +14701,24 @@
       <description></description>
     </item>
     <item>
+      <title>IP Access to Half Duplex Radio Networks for Tactical Voice</title>
+      <link>/serviceprofile/fmn5-20231123-prf-134.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-134.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>IP Access to Tactical Radio</title>
       <link>/serviceprofile/fmn5-20221202-prf-154.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-154.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP Access to Tactical Radio</title>
+      <link>/serviceprofile/fmn5-20231123-prf-154.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-154.html</guid>
       <description></description>
     </item>
     <item>
@@ -14068,6 +14733,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-50.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-50.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IP Quality of Service Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-50.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-50.html</guid>
       <description></description>
     </item>
     <item>
@@ -14092,6 +14764,20 @@
       <description></description>
     </item>
     <item>
+      <title>IPSec-based Media Infrastructure Security Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-52.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-52.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv4 Generic Routing Encapsulation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-130.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-130.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>IPv4 Routed Access Services</title>
       <link>/node/T-8b0fcb44-08fd-4757-a12a-0fe3ea9aad7b-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14106,10 +14792,31 @@
       <description></description>
     </item>
     <item>
+      <title>IPv4 Transport Services Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-127.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-127.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>IPv6 Domain Naming Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-125.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-125.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv6 Domain Naming Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-125.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-125.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv6 Generic Routing Encapsulation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-214.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-214.html</guid>
       <description></description>
     </item>
     <item>
@@ -14124,6 +14831,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-129.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-129.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPv6 Transport Services Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-129.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-129.html</guid>
       <description></description>
     </item>
     <item>
@@ -14155,6 +14869,13 @@
       <description></description>
     </item>
     <item>
+      <title>ISR Library Interface Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-53.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-53.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ISR Streaming Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-54.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14166,6 +14887,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-54.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-54.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ISR Streaming Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-54.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-54.html</guid>
       <description></description>
     </item>
     <item>
@@ -14239,10 +14967,31 @@
       <description></description>
     </item>
     <item>
+      <title>JSON Web Token Assertion Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-141.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-141.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Kinetic Indirect Fire Support Information Exchange profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-193.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-193.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinetic Indirect Fire Support Information Exchange profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-193.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-193.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KML Distribution Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-211.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-211.html</guid>
       <description></description>
     </item>
     <item>
@@ -14285,6 +15034,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-66.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-66.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Land Tactical C2 Information Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-66.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-66.html</guid>
       <description></description>
     </item>
     <item>
@@ -14470,6 +15226,13 @@
       <description></description>
     </item>
     <item>
+      <title>Maritime C2 Information Exchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-67.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-67.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Maritime C2 Processes Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-117.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14526,6 +15289,13 @@
       <description></description>
     </item>
     <item>
+      <title>Media Streaming Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-69.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-69.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Media-based Collaboration Standards Profiles</title>
       <link>/profile/fmn4-20211022-prf-115.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14537,6 +15307,13 @@
       <link>/profile/fmn5-20221202-prf-115.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-115.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media-based Collaboration Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-115.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-115.html</guid>
       <description></description>
     </item>
     <item>
@@ -14666,6 +15443,13 @@
       <description></description>
     </item>
     <item>
+      <title>Metadata Labelling Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-8.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-8.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Metadata Repository Services</title>
       <link>/node/T-b4217d76-3d0e-4f21-9243-cc2a404ce745-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14701,6 +15485,13 @@
       <description></description>
     </item>
     <item>
+      <title>MIP 4/JDSSDM Mediation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-160.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-160.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>MIP 4/JDSSDM Mediation Profile.</title>
       <link>/serviceprofile/fmn5-20221202-prf-160.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14712,6 +15503,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-65.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-65.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIP4 Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-65.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-65.html</guid>
       <description></description>
     </item>
     <item>
@@ -14841,6 +15639,13 @@
       <description></description>
     </item>
     <item>
+      <title>NATO HDRWF (ESSOR) Standards Profile edition 1</title>
+      <link>/serviceprofile/fmn5-20231123-prf-150.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-150.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>NATO High Capacity Data Rate Waveform (NHCDRWF) edition 1</title>
       <link>/serviceprofile/fmn5-20221202-prf-152.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14859,6 +15664,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-149.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-149.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NATO Narrowband waveform for VHF/UHF Radios edition 1</title>
+      <link>/serviceprofile/fmn5-20231123-prf-149.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-149.html</guid>
       <description></description>
     </item>
     <item>
@@ -14901,6 +15713,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-174.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-174.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NINE ISPEC</title>
+      <link>/serviceprofile/fmn5-20231123-prf-174.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-174.html</guid>
       <description></description>
     </item>
     <item>
@@ -15639,6 +16458,13 @@
       <description></description>
     </item>
     <item>
+      <title>NMCD Information Exchange Service Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-133.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-133.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Non-relational Database Services</title>
       <link>/node/T-80e56cf6-ed2a-474f-ae28-06029ccf224b-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15674,6 +16500,20 @@
       <description></description>
     </item>
     <item>
+      <title>Numbering Plans Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-70.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-70.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NVG/JDSSDM Mediation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-161.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-161.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>NVG/JDSSDM Mediation Profile.</title>
       <link>/serviceprofile/fmn5-20221202-prf-161.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15688,6 +16528,13 @@
       <description></description>
     </item>
     <item>
+      <title>OAuth 2.0 Access Token Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-142.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-142.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OAuth 2.0 Assertion Grant Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-139.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15695,10 +16542,24 @@
       <description></description>
     </item>
     <item>
+      <title>OAuth 2.0 Assertion Grant Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-139.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-139.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OAuth 2.0 Authorization Server Bootstrap Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-136.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-136.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth 2.0 Authorization Server Bootstrap Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-136.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-136.html</guid>
       <description></description>
     </item>
     <item>
@@ -15835,6 +16696,13 @@
       <description></description>
     </item>
     <item>
+      <title>Operations Information Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-116.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-116.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Operations Order Services</title>
       <link>/node/T-37ab4513-5fbb-47a3-9ddd-751a608718c8-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15881,6 +16749,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-71.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-71.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overlay Distribution Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-71.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-71.html</guid>
       <description></description>
     </item>
     <item>
@@ -15972,6 +16847,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-120.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-120.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peer Time Synchronization Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-120.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-120.html</guid>
       <description></description>
     </item>
     <item>
@@ -16091,6 +16973,13 @@
       <link>/profile/fmn5-20221202-prf-31.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-31.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-31.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-31.html</guid>
       <description></description>
     </item>
     <item>
@@ -16273,6 +17162,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-72.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-72.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Priority and Pre-emption Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-72.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-72.html</guid>
       <description></description>
     </item>
     <item>
@@ -16668,6 +17564,13 @@
       <description></description>
     </item>
     <item>
+      <title>REST-Based Request Response Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-156.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-156.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Restricted Frequency List Services</title>
       <link>/node/T-7b119032-b18b-481d-a7df-ecefa9be3036-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16717,6 +17620,13 @@
       <description></description>
     </item>
     <item>
+      <title>SAML 2.0 Assertion Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-140.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-140.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SAML 2.0 Bootstrap Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-137.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16724,10 +17634,24 @@
       <description></description>
     </item>
     <item>
+      <title>SAML 2.0 Bootstrap Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-137.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-137.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SATURN Waveform edition 4</title>
       <link>/serviceprofile/fmn5-20221202-prf-151.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-151.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SATURN Waveform edition 4</title>
+      <link>/serviceprofile/fmn5-20231123-prf-151.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-151.html</guid>
       <description></description>
     </item>
     <item>
@@ -16759,6 +17683,13 @@
       <description></description>
     </item>
     <item>
+      <title>SCIP PPK Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-74.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-74.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SCIP X.509 Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-75.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16770,6 +17701,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-75.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-75.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCIP X.509 Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-75.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-75.html</guid>
       <description></description>
     </item>
     <item>
@@ -16794,6 +17732,13 @@
       <description></description>
     </item>
     <item>
+      <title>Secure Domain Naming Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-80.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-80.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Secure REST-based Request Response Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-144.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16801,10 +17746,24 @@
       <description></description>
     </item>
     <item>
+      <title>Secure REST-based Request Response Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-144.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-144.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Secure SOAP-based Request Response Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-143.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-143.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure SOAP-based Request Response Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-143.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-143.html</guid>
       <description></description>
     </item>
     <item>
@@ -16823,6 +17782,13 @@
     </item>
     <item>
       <title>Secure Voice Profile</title>
+      <link>/profile/fmn5-20231123-prf-34.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-34.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure Voice Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-81.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn4-20211022-prf-81.html</guid>
@@ -16833,6 +17799,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-81.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-81.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure Voice Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-81.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-81.html</guid>
       <description></description>
     </item>
     <item>
@@ -16868,6 +17841,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-138.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-138.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Token Services Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-138.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-138.html</guid>
       <description></description>
     </item>
     <item>
@@ -17081,6 +18061,13 @@
       <description></description>
     </item>
     <item>
+      <title>Session Initiation and Control Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-84.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-84.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Short Messaging Access Services</title>
       <link>/node/T-8f51db96-3da3-45d4-86b9-7369b25878a5-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17270,6 +18257,20 @@
       <description></description>
     </item>
     <item>
+      <title>Situational Awareness Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-35.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-35.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC API Design and Conformance Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-77.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-77.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Orchestration Profile</title>
       <link>/profile/fmn4-20211022-prf-76.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17313,6 +18314,13 @@
     </item>
     <item>
       <title>SMC Process Implementation Profile</title>
+      <link>/profile/fmn5-20231123-prf-78.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-78.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-78.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn4-20211022-prf-78.html</guid>
@@ -17326,10 +18334,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Access Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-186.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-186.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Activity Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-188.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-188.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Activity Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-188.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-188.html</guid>
       <description></description>
     </item>
     <item>
@@ -17340,6 +18362,13 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Change Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-119.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-119.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Enabling Processes</title>
       <link>/profile/fmn5-20221202-prf-187.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17347,10 +18376,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Enabling Processes</title>
+      <link>/profile/fmn5-20231123-prf-187.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-187.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Event Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-180.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-180.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Event Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-180.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-180.html</guid>
       <description></description>
     </item>
     <item>
@@ -17368,10 +18411,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Geographic Location Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-184.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-184.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Incident Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-178.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-178.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Incident Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-178.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-178.html</guid>
       <description></description>
     </item>
     <item>
@@ -17389,10 +18446,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Party Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-183.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-183.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Problem Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-181.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-181.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Problem Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-181.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-181.html</guid>
       <description></description>
     </item>
     <item>
@@ -17403,10 +18474,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Request Fulfilment</title>
+      <link>/serviceprofile/fmn5-20231123-prf-179.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-179.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Service Asset and Configuration Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-182.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-182.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Service Asset and Configuration Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-182.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-182.html</guid>
       <description></description>
     </item>
     <item>
@@ -17417,6 +18502,13 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Service Catalogue Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-177.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-177.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Service Level Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-185.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -17424,10 +18516,24 @@
       <description></description>
     </item>
     <item>
+      <title>SMC Process Implementation Profile for Service Level Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-185.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-185.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SMC Process Implementation Profile for Service Request Catalogue Management</title>
       <link>/serviceprofile/fmn5-20221202-prf-197.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-197.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMC Process Implementation Profile for Service Request Catalogue Management</title>
+      <link>/serviceprofile/fmn5-20231123-prf-197.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-197.html</guid>
       <description></description>
     </item>
     <item>
@@ -17449,6 +18555,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-155.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-155.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SOAP-Based Request Response Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-155.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-155.html</guid>
       <description></description>
     </item>
     <item>
@@ -17547,6 +18660,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-79.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-79.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SRTP-based Media Infrastructure Security Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-79.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-79.html</guid>
       <description></description>
     </item>
     <item>
@@ -17659,6 +18779,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-87.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-87.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structured Data Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-87.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-87.html</guid>
       <description></description>
     </item>
     <item>
@@ -17778,6 +18905,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-89.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-89.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tactical Message Distribution Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-89.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-89.html</guid>
       <description></description>
     </item>
     <item>
@@ -17914,10 +19048,24 @@
       <description></description>
     </item>
     <item>
+      <title>Text-based Collaboration Chatroom Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-2.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Text-based Collaboration Core Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-3.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-based Collaboration Core Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-3.html</guid>
       <description></description>
     </item>
     <item>
@@ -17935,10 +19083,24 @@
       <description></description>
     </item>
     <item>
+      <title>Text-based Collaboration Data Forms Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-118.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-118.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Text-based Collaboration Information Discovery Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-176.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-176.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-based Collaboration Information Discovery Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-176.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-176.html</guid>
       <description></description>
     </item>
     <item>
@@ -17953,6 +19115,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-175.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-175.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-based Collaboration Publish-Subscribe Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-175.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-175.html</guid>
       <description></description>
     </item>
     <item>
@@ -17977,10 +19146,24 @@
       <description></description>
     </item>
     <item>
+      <title>Text-based Collaboration Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-112.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-112.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Text-based Collaboration Tactical Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-157.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-157.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-based Collaboration Tactical Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-157.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-157.html</guid>
       <description></description>
     </item>
     <item>
@@ -17995,6 +19178,13 @@
       <link>/profile/fmn5-20221202-prf-92.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-92.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Synchronization Profile</title>
+      <link>/profile/fmn5-20231123-prf-92.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-92.html</guid>
       <description></description>
     </item>
     <item>
@@ -18030,6 +19220,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-73.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-73.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traffic Flow Confidentiality Protection Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-73.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-73.html</guid>
       <description></description>
     </item>
     <item>
@@ -18145,10 +19342,24 @@
       <description></description>
     </item>
     <item>
+      <title>Transport Layer Security Fallback Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-164.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-164.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Transport Layer Security Profile</title>
       <link>/serviceprofile/fmn5-20221202-prf-165.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-165.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transport Layer Security Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-165.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-165.html</guid>
       <description></description>
     </item>
     <item>
@@ -18205,6 +19416,13 @@
       <link>/profile/fmn5-20221202-prf-36.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-36.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unified Audio and Video Profile</title>
+      <link>/profile/fmn5-20231123-prf-36.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-36.html</guid>
       <description></description>
     </item>
     <item>
@@ -18278,6 +19496,13 @@
       <description></description>
     </item>
     <item>
+      <title>Video-based Collaboration Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-94.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-94.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Video-based Collaboration Standards Profiles</title>
       <link>/profile/fmn4-20211022-prf-113.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18289,6 +19514,13 @@
       <link>/profile/fmn5-20221202-prf-113.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-113.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video-based Collaboration Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-113.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-113.html</guid>
       <description></description>
     </item>
     <item>
@@ -18310,6 +19542,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-95.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-95.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Appliance Interchange Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-95.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-95.html</guid>
       <description></description>
     </item>
     <item>
@@ -18362,6 +19601,13 @@
       <description></description>
     </item>
     <item>
+      <title>Voice Services Media Encoding Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-86.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-86.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>VPN Access Services</title>
       <link>/node/T-aba025a1-6e91-4943-8422-5089ffa69fa2-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18387,6 +19633,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-85.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-85.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VTC Services Audio and Video Encoding Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-85.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-85.html</guid>
       <description></description>
     </item>
     <item>
@@ -18418,6 +19671,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Authentication Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-38.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-38.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Content Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-96.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18429,6 +19689,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-96.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-96.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Content Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-96.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-96.html</guid>
       <description></description>
     </item>
     <item>
@@ -18446,6 +19713,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Feature Service Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-97.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-97.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Feeds Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-98.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18457,6 +19731,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-98.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-98.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Feeds Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-98.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-98.html</guid>
       <description></description>
     </item>
     <item>
@@ -18488,6 +19769,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Map Service Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-100.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-100.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Map Tile Service Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-101.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18502,6 +19790,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Map Tile Service Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-101.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-101.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Platform Profile</title>
       <link>/serviceprofile/fmn4-20211022-prf-102.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18513,6 +19808,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-102.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-102.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Platform Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-102.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-102.html</guid>
       <description></description>
     </item>
     <item>
@@ -18537,6 +19839,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Platform Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-109.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-109.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Web Presentation Services</title>
       <link>/node/T-73a03cb5-fd4a-426a-a017-1ac32f0270a4-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18555,6 +19864,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-103.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-103.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Service Messaging Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-103.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-103.html</guid>
       <description></description>
     </item>
     <item>
@@ -18712,10 +20028,24 @@
       <description></description>
     </item>
     <item>
+      <title>Wireless NB BLOS Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-147.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-147.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Wireless NB LOS Standards Profiles</title>
       <link>/profile/fmn5-20221202-prf-146.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/profile/fmn5-20221202-prf-146.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless NB LOS Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-146.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-146.html</guid>
       <description></description>
     </item>
     <item>
@@ -18726,10 +20056,24 @@
       <description></description>
     </item>
     <item>
+      <title>Wireless WB LOS Standards Profiles</title>
+      <link>/profile/fmn5-20231123-prf-148.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/profile/fmn5-20231123-prf-148.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Workflow Services</title>
       <link>/node/T-9a740413-5005-459b-9100-7e7cc08fa41d-X.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/node/T-9a740413-5005-459b-9100-7e7cc08fa41d-X.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XMPP/JDSSDM Mediation Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-158.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-158.html</guid>
       <description></description>
     </item>
     <item>
@@ -18744,6 +20088,13 @@
       <link>/serviceprofile/fmn5-20221202-prf-122.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/fmn5-20221202-prf-122.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zone Transfer Profile</title>
+      <link>/serviceprofile/fmn5-20231123-prf-122.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/serviceprofile/fmn5-20231123-prf-122.html</guid>
       <description></description>
     </item>
   </channel>

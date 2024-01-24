@@ -310,6 +310,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/dgiwg-126.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/dgiwg-126.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/dgiwg-250.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/dgiwg-250.html</guid>
@@ -537,6 +544,41 @@
       <link>/standard/fmn-cpwg-sip-bdg-mtd-xmpp-stanzas.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/fmn-cpwg-sip-bdg-mtd-xmpp-stanzas.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-lrc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-lrc.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-nmcd-ie.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-nmcd-ie.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-rapd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-rapd.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-smc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-smc.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/fmn-sip-wms-wmts.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/fmn-sip-wms-wmts.html</guid>
       <description></description>
     </item>
     <item>
@@ -782,6 +824,13 @@
       <link>/standard/ietf-rfc1213.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc1213.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc1321.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc1321.html</guid>
       <description></description>
     </item>
     <item>
@@ -1587,6 +1636,13 @@
       <link>/standard/ietf-rfc4193.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc4193.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc4248.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc4248.html</guid>
       <description></description>
     </item>
     <item>
@@ -2592,6 +2648,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/ietf-rfc7766.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc7766.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/ietf-rfc7800.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc7800.html</guid>
@@ -2630,6 +2693,20 @@
       <link>/standard/ietf-rfc8040.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc8040.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc8098.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc8098.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc8130.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc8130.html</guid>
       <description></description>
     </item>
     <item>
@@ -2753,6 +2830,27 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/ietf-rfc9110.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9110.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9111.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9111.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9112.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9112.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/ietf-rfc919.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc919.html</guid>
@@ -2763,6 +2861,20 @@
       <link>/standard/ietf-rfc922.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ietf-rfc922.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9239.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9239.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ietf-rfc9325.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ietf-rfc9325.html</guid>
       <description></description>
     </item>
     <item>
@@ -4692,6 +4804,20 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/mip-mip4-ies-v4.4.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/mip-mip4-ies-v4.4.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/mip-mip4-ies.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/mip-mip4-ies.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/mip4-ies-v4.3.1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/mip4-ies-v4.3.1.html</guid>
@@ -5112,6 +5238,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-adatp-36-ed.b-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-adatp-36-ed.b-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-adatp-37-ed.a-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-adatp-37-ed.a-v1.html</guid>
@@ -5252,6 +5385,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-ed.a-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-ed.a-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol1-ed.a-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol1-ed.a-v1.html</guid>
@@ -5266,9 +5406,23 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol1-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol1-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol2-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol2-ed.a-v2.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aep-76-vol2-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol2-ed.a-v3.html</guid>
       <description></description>
     </item>
     <item>
@@ -5280,6 +5434,13 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol3-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol3-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol4-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol4-ed.a-v2.html</guid>
@@ -5287,9 +5448,23 @@
     </item>
     <item>
       <title></title>
+      <link>/standard/nato-aep-76-vol4-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol4-ed.a-v3.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>/standard/nato-aep-76-vol5-ed.a-v2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aep-76-vol5-ed.a-v2.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aep-76-vol5-ed.a-v3.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aep-76-vol5-ed.a-v3.html</guid>
       <description></description>
     </item>
     <item>
@@ -5409,6 +5584,13 @@
       <link>/standard/nato-aidpp-01-ed.A-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-aidpp-01-ed.A-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-aintp-03-ed.c-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-aintp-03-ed.c-v1.html</guid>
       <description></description>
     </item>
     <item>
@@ -5941,6 +6123,13 @@
       <link>/standard/nato-atp-97-ed.b-v1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/nato-atp-97-ed.b-v1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/nato-essor-hdrwf-v1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/nato-essor-hdrwf-v1.html</guid>
       <description></description>
     </item>
     <item>
@@ -7264,6 +7453,13 @@
       <link>/standard/ogc-12-128r17.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/standard/ogc-12-128r17.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/standard/ogc-12-128r18.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/standard/ogc-12-128r18.html</guid>
       <description></description>
     </item>
     <item>
