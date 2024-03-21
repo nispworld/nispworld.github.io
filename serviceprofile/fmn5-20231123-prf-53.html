@@ -119,6 +119,26 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>To ensure optimization of network resources the ISR Library Interface services work best with a unicast address space.</p>
+<p>AEDP-17 defines four interfaces</p>
+<ul>
+<li>STANAG 4559 NATO Standard ISR Library Interface,</li>
+<li>Provider-consumer interface (seeISR Library Access Pattern) based on HTTP/HTTPS interface'</li>
+<li>CSD-Publish services interface,</li>
+<li>CSD-Query services interface.</li>
+</ul>
+<p>The NATO Standard ISR Library interface is required for server-to-server interactions (i.e., federation) as well as client-to-server interactions.</p>
+<p>The HTTP/HTTPS interface is for transferring files between server and clients as well as remote file access.</p>
+<p>The Publish and Query are web service interfaces supporting only client to server interaction. Although AEDP-17 allows for the use of partially qualified attribute name for the queries (see AEDP-17 section B-3.10.3 Query validation), the use of fully qualified attribute names are recommended since some AEDP-17 implementations require such fully qualified attribute name and this will ensure an adequate mapping to the right attribute. This is particular important considering the extension required to support all information products specified within the Procedural Instructions for Intelligence and JISR.</p>
+<p>AEDP-17 Annex K provides further details on the ISR Library synchronization.</p>
+<p>Service provider must identify which interfaces/patterns they support as a part of the federation process.</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -174,7 +194,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

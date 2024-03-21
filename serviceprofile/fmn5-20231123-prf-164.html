@@ -132,6 +132,51 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>Certificate validation</p>
+<ul>
+<li>Federated services that implement TLS shall perform certificate validation. Certificate validation shall include checking at least  full certificate path validation, certificate validity period and certificate revocation status.</li>
+<li>Federated services that implement TLS shall be able to check the revocation status of digital certificates through HTTP or OSCP endpoints.</li>
+<li>If compliance and validation of Digital Certificates fail, TLS connections shall be terminated</li>
+</ul>
+<p>Cipher suites</p>
+<ul>
+<li>
+<p>Implementations shall be configured to only use the following cipher suites</p>
+</li>
+<li>
+<p>TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (Mandatory for RSA certificates)</p>
+</li>
+<li>
+<p>TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Optional)</p>
+</li>
+<li>
+<p>TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (Mandatory for ECC certificates)</p>
+</li>
+<li>
+<p>TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (Optional)</p>
+</li>
+<li>
+<p>If no cipher suite could be negotiated, TLS connections shall be terminated.</p>
+</li>
+</ul>
+<p>Maximum lifetime and session termination</p>
+<ul>
+<li>The upper limit for the lifetime of a TLS session shall not exceed 48 hours.</li>
+<li>When the TLS connection is closed, ephemeral keys shall be securily deleted.</li>
+</ul>
+<p>Disallowed standards and extensions</p>
+<ul>
+<li>SSL version 2.0, version 3.0 and TLS version 1.0 or 1.1</li>
+<li>The Heart Beat Extension (RFC 6520</li>
+<li>Encrypt-then-MAC extension (RFC 7366)</li>
+</ul>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -187,7 +232,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

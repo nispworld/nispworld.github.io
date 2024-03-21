@@ -93,6 +93,23 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>All geopackages are based on version 3 of the SQLite file format, and will have a file name of “.gpkg”. The only tables that are mandated are the gpkg_spatial_ref_sys table and the gpkg_contents table. The gpkg_spatial_ref_sys table contains the spatial (coordinate) reference system (SRS) definitions needed by the gpk_contents and the gpkg_geometry_columns table to relate the vector and tile data in user tables to locations on the earth. The gpkg_contents table provides a list of all the geospatial contents in a GeoPackage and provides identifying and descriptive information that an application can display to a user as a menu of geospatial data that is available for access and/or update.</p>
+<p>Further implementation guidance can be found in DGIWG 126, the (DRAFT) DGIWG GeoPackage Profile, DRAFT Rev 2.1 (STD-DP-19-005), June 10, 2021, expected ratification April 2022. Providers should put emphasis on DGIWG Profile requirements and recommendations.</p>
+<p>The DGIWG Profile of Geopackage provides the following advantages to the users of GeoPackage data</p>
+<ul>
+<li>common tile matrix set zoom levels and tile size;</li>
+<li>common map projections for global data exchange and exploitation;</li>
+<li>metadata populated for discovery, awareness and source of GeoPackage content;</li>
+<li>agreement on extensions used;</li>
+<li>compliance definition with abstract test suite.</li>
+</ul>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -148,7 +165,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

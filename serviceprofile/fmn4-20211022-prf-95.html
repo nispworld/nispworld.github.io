@@ -99,6 +99,53 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>To ensure optimization of the exchange of virtual appliances, the following guidelines should be observed.</p>
+<p>The environment should be prepared for optimal implementation of a virtual machine (VM).</p>
+<ul>
+<li>Strip down the hardware as much as possible, by removing sound cards, USB controllers, CD-ROM and floppy drives, and para-virtualized devices;</li>
+<li>Minimize the VMs’ HDD footprint to a minimum and use thin provisioning;</li>
+<li>Unmount any removable devices before exporting to Open Virtualization Format (OVF);</li>
+<li>Delete all snapshots;</li>
+<li>Shutdown machine; and</li>
+<li>Include a CRC Integrity Check.</li>
+</ul>
+<p>The platform should be able to support the following minimalistic set of hardware features</p>
+<ul>
+<li>
+<p>vCPU support  minimal two vCPUs supported per VM</p>
+</li>
+<li>
+<p>SCSI disk controller  minimal two</p>
+</li>
+<li>
+<p>Virtual SCSI harddisks and optical disk  minimal eight</p>
+</li>
+<li>
+<p>IDE nodes</p>
+</li>
+<li>
+<p>Virtual IDE disks</p>
+</li>
+<li>
+<p>Virtual IDE CD-ROMs</p>
+</li>
+<li>
+<p>E1000 (Network Interface)</p>
+</li>
+<li>
+<p>SVGA displays  minimal one</p>
+</li>
+<li>
+<p>Serial ports  minimal one</p>
+</li>
+</ul>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -154,7 +201,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

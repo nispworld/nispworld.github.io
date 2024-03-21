@@ -103,6 +103,31 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>A federated Authorization Server supports this profile by providing a Security Token Service Endpoint (HTTP collection resource identified by the request URI) for a Client to make a request to exchange a Security Token (SAML or JWT assertion) from its own domain for a new Security Token (Access Token) that can be used to support chaining web services and access to federated protected resources.</p>
+<p>How the Client receives a SAML or JWT assertion is out of scope for this profile.</p>
+<p>The SAML assertion, if used, shall be compliant with the structure specified in the SIP for Middleware.</p>
+<p>The JWT assertion, if used, shall be compliant with the structure specified in the SIP for Middleware.</p>
+<p>When complying with this profile the Client must set the fields of its assertion grant token requests as follows</p>
+<ul>
+<li>If the Client is exchanging a SAML assertion for an Access Token the grant_type parameter value is urn ietf params oauth grant-type saml2-bearer and the assertion parameter value is the SAML assertion.</li>
+<li>If the Client is exchanging a JWT assertion for an Access Token the grant_type parameter value is urn ietf params oauth grant-type JWT-bearer and the assertion parameter value is the JWT assertion.</li>
+<li>The resource parameter must be used to indicate the federated service or protected resource where the resultant Access Token is intended to be used.</li>
+</ul>
+<p>The Authorization Server ensures that the assertion provided by the Client is valid and not expired.</p>
+<p>When complying with this profile the Authorization Server must set the fields of the assertion grant token response as follows</p>
+<ul>
+<li>The access_token parameter value is the Access Token issued as part of the request.</li>
+<li>The token_type parameter value is Bearer.</li>
+</ul>
+<p>Note  If supporting the OAuth 2.0 DPoP Profile the token_type parameter value is DPoP. Note  If supporting the OAuth 2.0 HTTP Message Signatures Profile token_type parameter value is PoP.</p>
+<p>The Access Token format may be compliant with the OAuth 2.0 Access Token Profile.</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -158,7 +183,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

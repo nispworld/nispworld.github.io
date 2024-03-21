@@ -99,6 +99,19 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>The result set returned to the Search Service from the MNP search index (based upon the Search Query sent to the Search Service) shall be provided in a standardised Search Response format.</p>
+<p>The Search Services shall support either RSS 2.0 format and/or Atom 1.0 format as the Search Response.</p>
+<p>The Search Application shall be able to process Search Responses that are RSS 2.0 or Atom 1.0 formats.</p>
+<p>A Search Response in the Atom 1.0 format shall be an Atom Feed Document as specified in RFC 4287.</p>
+<p>Each search result, when the Search Response is in Atom 1.0 format, shall be stored as an individual “atom entry” element as a child of the Atom Feed Document conformant with RFC 4287.</p>
+<p>Each search result, when the Search Response is in RSS 2.0 format, shall be stored as individualitemelements that contains alinkelement that is the URL for dereferencing the information object (indicated by that search result).</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -154,7 +167,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

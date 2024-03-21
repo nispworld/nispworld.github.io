@@ -128,6 +128,35 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>When a Consumer asks a Provider for a resource, the Provider is expected to respond with the best possible representation for that resource, given the Consumer&rsquo;s preferences.</p>
+<p>This profile places no constraints on the type of data that can be exchanged between Consumers and Providers in the body of an HTTP Message request or response. However, it is recommended that XML or JSON be used as the MIME media type exchanged between Consumers and Providers in the body of an HTTP Message request or response.</p>
+<p>HTTP requests from the Consumers using the HTTP verbs GET, HEAD, PUT and DELETE are honoured as idempotent requests by the Provider.</p>
+<p>Create, Read, Update and Delete (CRUD) are the main operations used when dealing with information in persistent storage.</p>
+<p>While REST/HTTP has similar operations, the correspondence with CRUD is not a direct one-to-one match, specifically for the Create and Update methods, but also due to the granularity of HTTP resources.</p>
+<p>REST offers generic uniform HTTP interface methods (HTTP verbs RFC 7231 (IETF)]) that apply to the request URI entity which is the URI specified on the HTTP request.</p>
+<p>It is RECOMMENDED that RESTful web services use the prescribed HTTP verbs for Create, Read, Update and Delete (CRUD) operations as specified in below</p>
+<ul>
+<li>Get  Retrieves an information object identified by the request URI.</li>
+<li>Put  Creates a new information object identified by the request URI. (Updates an information object identified by the request URI. It is recommended that the update operation is a complete update of the information object identified by the request URI.)</li>
+<li>Post  Updates an information object identified by the request URI. (The request URI may  create new additional information objects; update additional information objects; or perform a variety of create or updates of information objects.)</li>
+<li>Patch  Creates a partial update of an information object identified by the request URI. (Updates an information object identified by the request URI. It is recommended that the update operation includes a set of instructions or description of changes describing what needs to be modified in the information object identified by the request URI. The entire set of instructions are required to be applied atomically.)</li>
+<li>Delete  Deletes an information object identified by the request URI.</li>
+<li>Head  Retrieves the same HTTP header fields and HTTP status code as the GET HTTP verb without the representation of the information object identified by the request URI.</li>
+<li>Options  RESTful web services can use this HTTP verb to determine the list of HTTP verbs supported by the information object identified by the request URI.</li>
+</ul>
+<p>A fundamental axiom of the architecture of the World Wide Web is that URIs should be opaque to Consumers i.e. a Consumer should not need to pick apart a URI to determine what it means or what to do with it.</p>
+<p>Consumers must not be capable of gathering sensitive information about the information object or the Communications and Information System (CIS) containing the information object through aggregation techniques carried out on the URI.</p>
+<p>Where metadata about the resource needs to be conveyed, it must be done using the standard HTTP headers and the rest of the information a resource conveys is carried in the representation of the resource itself.</p>
+<p>In environments that typically have high latency and bandwidth constraints Consumers and Providers may support HTTP caching for the HTTP verbs GET, PUT and HEAD.</p>
+<p>Cached contents must be protected.</p>
+<p>Caching of sensitive information is prohibited. A Consumer shall indicate to all entities in the HTTP request/response chain that information shall not be cached by inserting the HTTP header cache-control with the additional directive of no-store. or no-cache. As such, information must not be cached when a HTTP request contains a HTTP Cache-Control Header field with the values  no-store and no-cache.</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -183,7 +212,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

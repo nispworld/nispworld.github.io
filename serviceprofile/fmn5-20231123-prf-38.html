@@ -99,6 +99,46 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>Identity providers must support the following components of the SAML 2.0 specification</p>
+<ul>
+<li>Profiles  Web Browser SSO Profile and Single Logout Profile.</li>
+<li>Bindings  HTTP Redirect Binding and HTTP POST Binding.</li>
+</ul>
+<p>When making authentication requests<!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted -->to Identity Providers, the requesting SP/RP must fulfill the following requirements</p>
+<ul>
+<li>All Authentication Requests shall be signed.</li>
+<li>HTTP-Redirectbinding shall be used for the transmission of Authentication Request messages.</li>
+</ul>
+<p>Authentication responses from an identity provider must fulfill the following requirements</p>
+<ul>
+<li>
+<p>HTTP-POSTbinding shall be used for the receipt of<!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted -->messages.</p>
+</li>
+<li>
+<p>SAML Assertions shall contain a<!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->element with the following format to enable Single Logout <!-- raw HTML omitted -->urn oasis names tc SAML 2.0 nameid-format transient.<!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>All<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->elements shall contain a NameFormat of<!-- raw HTML omitted -->urn oasis names tc SAML 2.0 attrname-format uri <!-- raw HTML omitted -->. Required attribute names are listed in the Context section.</p>
+</li>
+<li>
+<p><!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->element, specified in the XML Digital Signature Core specification [1], inside the<!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->element shall be left empty.</p>
+</li>
+<li>
+<p>If encryption is used for SAML Response messages, the assertion element shall be encrypted as a whole. Encryption of only Attributes and/or NameID is not allowed for SAML Response messages. Thus, SAML Response messages shall contain a<!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->element in case encryption is used.</p>
+</li>
+<li>
+<p>For Single Logout request messages<!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted -->element shall not be used. Instead transient NameIDs shall be used to hide the user identity.</p>
+</li>
+</ul>
+<p>In order to make web authentication more robust, implementations should allow five (5) minutes of clock skew in both directions when interpreting timestamps in SAML assertions.</p>
+<p>[1] XML Signature Syntax and Processing Version 2.0, W3C Working Group Note 23 July 2015,https //www.w3.org/TR/xmldsig-core2/#sec-KeyInfo</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -154,7 +194,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

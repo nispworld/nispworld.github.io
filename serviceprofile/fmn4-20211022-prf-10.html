@@ -98,6 +98,60 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>The following algorithms and parameters are to be used to support specific functions</p>
+<ul>
+<li>
+<p>Root CA Certificates</p>
+</li>
+<li>
+<p>Digest Algorithm  SHA-256 or SHA-384 (Root CA certificates, which were signed using SHA-1 before 1 January 2016, may be used until 1 January 2025)</p>
+</li>
+<li>
+<p>RSA modulus size (bits)  3072 or 4096</p>
+</li>
+<li>
+<p>ECC Curve  NIST P-256 or P-384</p>
+</li>
+<li>
+<p>Subordinate CA Certificates</p>
+</li>
+<li>
+<p>Digest Algorithm  SHA-256 or SHA-384</p>
+</li>
+<li>
+<p>RSA modulus size (bits)  2048, 3072 or 4096</p>
+</li>
+<li>
+<p>ECC Curve  NIST P-256 or P-384</p>
+</li>
+<li>
+<p>Subscriber Certificates</p>
+</li>
+<li>
+<p>Digest Algorithm  SHA-256 or SHA-384</p>
+</li>
+<li>
+<p>RSA modulus size (bits)  2048, 3072 or 4096</p>
+</li>
+<li>
+<p>ECC Curve  NIST P-256 or P-384</p>
+</li>
+</ul>
+<p>For further guidance on the implementation the AC/322-N(2020)0077 iTIF Certificate Profiles Version 1.2.2 shall also be considered.</p>
+<p>Even more guidance</p>
+<ul>
+<li>A digital certificate service provider shall choose which combination of algorithm and keylength chain to build. The service portfolio may contain several parallel solutions.</li>
+<li>You shall not mix key-algorithms in one CA/sub-CA chain.</li>
+<li>A digital certificate service consumer shall support the full spectrum of possible combinations in algorithm and keylength.</li>
+<li>During a mission instantiation, the service designer shall verify service consumer capabilities with regard to supported algorithms.</li>
+</ul>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -153,7 +207,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

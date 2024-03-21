@@ -94,6 +94,36 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>The ‘Contact’ Object Class, defined in Microsoft Active Directory schema, is not a standard LDAP class.</p>
+<p>In the case a mapping is required to be performed between the standardised IETF &lsquo;inetOrgPerson&rsquo; Object Class and the &lsquo;Contact&rsquo; Object Class then the following rules must be applied</p>
+<ul>
+<li>All mandatory attributes in the Consumer object class must be created; and,</li>
+<li>the cardinality of attributes values in the Consumer object class must be maintained (e.g. an attribute may only be allowed a single value in the Consumer’s object class, but the Provider’s object class may allow multiple values).</li>
+</ul>
+<p>A potential list of suitable attributes for replication is displayed in the Table. The table provides</p>
+<ul>
+<li>Mappings between the Active Directory and IETF schemas (for those suitable attributes);</li>
+</ul>
+<p>Object class the attribute is derived from; and,</p>
+<ul>
+<li>Obligations and cardinality.</li>
+</ul>
+<p>The following guide will assist in understanding the table</p>
+<ul>
+<li>“ADUC” - the Active Directory field that is shown in “Active Directory User and Computers” for the attribute (where it exists);</li>
+<li>“Attribute” - the attribute name (which may be different from the LDAP NAME);</li>
+<li>“M” – is the attribute mandatory within the Object Class;</li>
+<li>“OC” – the Object Class with which the attribute is associated; and,</li>
+<li>“Single-Value” – is the attribute single or multi valued.</li>
+</ul>
+<p>[CREATE TABLE FROM TABLE 2 IN SIP FOR IDENTITY INFORMATION]</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -149,7 +179,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

@@ -101,6 +101,36 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>Certificate validation</p>
+<ul>
+<li>Federated services that implement TLS shall perform certificate validation. Certificate validation shall include checking at least  full certificate path validation, certificate validity period and certificate revocation status.</li>
+<li>Federated services that implement TLS shall be able to check the revocation status of digital certificates through HTTP or OSCP endpoints.</li>
+<li>If compliance and validation of Digital Certificates fail, TLS connections shall be terminated</li>
+</ul>
+<p>Cryptographic algorithms and cipher suites</p>
+<ul>
+<li>TLS_AES_128_GCM_SHA256 (mandatory)</li>
+<li>TLS_AES_256_GCM_SHA384 (recommended)</li>
+<li>TLS_CHACHA20_POLY1305_SHA256 (recommended)</li>
+<li>If no cipher suite could be negotiated, TLS connections shall be terminated.</li>
+</ul>
+<p>Maximum lifetime and session termination</p>
+<ul>
+<li>The upper limit for the lifetime of a TLS session shall not exceed 48 hours.</li>
+<li>When the TLS connection is closed, ephemeral keys shall be securely deleted.</li>
+</ul>
+<p>Disallowed standards and extensions</p>
+<ul>
+<li>SSL version 2.0, version 3.0 and TLS version 1.0, 1.1 or 1.2</li>
+<li>The Heart Beat Extension (RFC 6520)</li>
+</ul>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -156,7 +186,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

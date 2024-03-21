@@ -100,6 +100,22 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>The Search Services shall construct a Search Description as an OpenSearch Description Document (OSDD) compliant with OpenSearch 1.1.</p>
+<p>The Search Services Search Description shall contain a URL request template for each Search Response format that it supports (indicated by the URL @type attribute value).</p>
+<p>Each URL template provided in the Search Services Search Description shall contain a URL template {searchTerms} parameter.</p>
+<p>Other parameters used in the URL request template are recommended to be optional.</p>
+<p>Enabling metadata-based searches will require other parameters. The parameter names are required to match the formal metadata element name as specified in ADatP-5636 Edition A Version 1.0.</p>
+<p>The Search Services Provider shall publish the Search Description to the same host as the Search Services.</p>
+<p>The Search Services, when requested, SHALL return a Search Description.</p>
+<p>The Search Services may support auto-discovery of a Search Description, as specified in OpenSearch 1.1.</p>
+<p>The Search Applications shall validate all Search Descriptions that it retrieves prior to use.</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -155,7 +171,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 

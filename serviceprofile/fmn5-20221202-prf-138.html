@@ -100,6 +100,35 @@
 
 </div>
 
+<h3>Guidance</h3>
+
+<dl>
+  <dt class="data-label"></dt>
+  <dd class="data-value"><p>How the SAML 2.0 Token has been retrieved from the local STS to be used at the federated STS is not a federation issue.</p>
+<p>The operations that are specified here are the minimal operations that SHALL be implemented by the STS in order to support the exchange of SAML Security Tokens between federation partners. Other operations that are defined by the relevant specification MAY be implemented by the STS in accordance with those specifications.</p>
+<ul>
+<li>Issue</li>
+</ul>
+<p>Based on the credential provided/proven in the request, a new token is issued, possibly with new proof information.</p>
+<p>Providers and Consumers SHALL use the following WS-Addressing actions to enable specific processing context to be conveyed to the recipient</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RST/Issue</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RSTR/Issue</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RSTRC/IssueFinal</p>
+<p>Providers and Consumers SHALL use the following URI as a wst RequestType element</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/Issue</p>
+<ul>
+<li>Renew</li>
+</ul>
+<p>A previously issued token with expiration is presented (and possibly proven) and the same token is returned with new expiration semantics.</p>
+<p>Providers and Consumers SHALL use the following WS-Addressing actions to enable specific processing context to be conveyed to the recipient</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RST/Renew</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RSTR/Renew</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/RSTR/RenewFinal</p>
+<p>Providers and Consumers SHALL use the following URI as a wst RequestType element</p>
+<p>-http //docs.oasis-open.org/ws-sx/ws-trust/200512/Renew</p>
+</dd>
+</dl>
+
 <h3>Status</h3>
 
 
@@ -155,7 +184,7 @@
 </div>
 
 <div class="footer">
-  <div>Last updated on Thu, 29 Feb 2024 18:42:26 UTC</div>
+  <div>Last updated on Thu, 21 Mar 2024 15:51:28 UTC</div>
   <div>This page is work in progress</div>
 </div>
 
