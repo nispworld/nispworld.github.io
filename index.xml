@@ -15212,13 +15212,6 @@
       <description></description>
     </item>
     <item>
-      <title>NISP BSSP for Data_Transfer_Services</title>
-      <link>/serviceprofile/bsp-Data_Transfer_Services.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/serviceprofile/bsp-Data_Transfer_Services.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>NISP BSSP for Directory_Storage_Services</title>
       <link>/serviceprofile/bsp-Directory_Storage_Services.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15244,13 +15237,6 @@
       <link>/serviceprofile/bsp-Document_Sharing_Services.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/bsp-Document_Sharing_Services.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NISP BSSP for Domain_Name_Services</title>
-      <link>/serviceprofile/bsp-Domain_Name_Services.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/serviceprofile/bsp-Domain_Name_Services.html</guid>
       <description></description>
     </item>
     <item>
@@ -15496,13 +15482,6 @@
       <link>/serviceprofile/bsp-Packet-based_Transport_Services.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/serviceprofile/bsp-Packet-based_Transport_Services.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NISP BSSP for Platform Services</title>
-      <link>/serviceprofile/bsp-Platform_Services.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/serviceprofile/bsp-Platform_Services.html</guid>
       <description></description>
     </item>
     <item>
